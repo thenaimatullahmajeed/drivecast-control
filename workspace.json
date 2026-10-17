@@ -22,7 +22,7 @@
       "privacy": "public",
       "limit": 1,
       "category": "22",
-      "status": "Automation enabled",
+      "status": "Upgrade verification",
       "notice": "Daily uploads enabled around 4:15-4:25 PM and 8:15-8:25 PM New York time (random start); maximum 2 attempts per day.",
       "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
       "channel_title": "Nora Rose Jean Fans",
@@ -33,7 +33,7 @@
       "branch": "main",
       "initial_head": "19851cede4d373ddbac6ed78fe8afa9baef74282",
       "deployed": true,
-      "enabled": true,
+      "enabled": false,
       "test_before": [
         38958448007
       ],
@@ -51,7 +51,7 @@
       "stats": {},
       "source_stats": {},
       "credential_status": "Reconnect Google for live stats/portable recovery; existing GitHub secrets preserved.",
-      "worker_version": 1
+      "worker_version": 2
     }
   },
   "remote": {
@@ -60,7 +60,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": ""
+    "head": "63e26a413802c36896f150556a6f8bb0383eb925",
+    "saved_at": "2026-10-17T21:39:49.227978+00:00"
   },
   "last_sync": "",
   "notice": "Existing clients and local records preserved. Reconnect Google once to include credentials in encrypted recovery. Existing repo secrets are unchanged."
