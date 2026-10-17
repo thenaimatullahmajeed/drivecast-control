@@ -23,7 +23,7 @@
       "limit": 1,
       "category": "22",
       "status": "Enabled",
-      "notice": "Available connections, channel stats, source and GitHub records updated.",
+      "notice": "V3 read-only dry run passed. Public publishing checks hourly; max two daily. Old upload IDs and counters preserved. Reconnect legacy Google once for local stats/encrypted export of credentials.",
       "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
       "channel_title": "Nora Rose Jean Fans",
       "folder_name": "Nora Rose Jean Fans",
@@ -48,11 +48,24 @@
       "meta_connection": "",
       "instagram_username": "",
       "source_since": "",
-      "stats": {},
+      "stats": {
+        "viewCount": "0",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "0",
+        "checked_at": "2026-10-17T22:52:33.946655+00:00"
+      },
       "source_stats": {},
       "credential_status": "Reconnect Google for live stats/portable recovery; existing GitHub secrets preserved.",
-      "worker_version": 2,
-      "actual_privacy": "public"
+      "worker_version": 3,
+      "actual_privacy": "public",
+      "check_minutes": 60,
+      "max_uploads_per_day": 2,
+      "facebook_connection": "",
+      "facebook_page_id": "",
+      "facebook_title": "",
+      "facebook_format": "auto",
+      "facebook_initialized": false
     }
   },
   "remote": {
@@ -61,9 +74,10 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "4e9aeb0fc1f712624bf22cc9d8cf7755bda4a724",
-    "saved_at": "2026-10-17T22:30:15.671824+00:00"
+    "head": "2002f6452ef31efa1e950a052e9f6fabe889a394",
+    "saved_at": "2026-10-17T22:45:13.102819+00:00"
   },
   "last_sync": "2026-10-17T22:45:08.794476+00:00",
-  "notice": "Sync finished. Connections, available stats and records checked."
+  "notice": "Guided local panel ready. Existing client/history preserved. Export uses the unlock password; Meta app and real Page validation remain owner setup steps.",
+  "last_stats_sync": "2026-10-17T22:52:33.946655+00:00"
 }
