@@ -7,9 +7,9 @@
       "kind": "github",
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
-      "status": "Check connection",
-      "checked_at": "",
-      "notice": "Existing CLI login can be imported after vault unlock."
+      "status": "Connected",
+      "checked_at": "2026-10-17T21:48:24.582363+00:00",
+      "notice": "Verified account; every client stays pinned to its selected owner."
     }
   },
   "clients": {
@@ -23,7 +23,7 @@
       "limit": 1,
       "category": "22",
       "status": "Enabled",
-      "notice": "New worker read-only dry run passed. Existing enabled/privacy settings restored. Reconnect Google once for live dashboard stats and encrypted credential recovery.",
+      "notice": "Available connections, channel stats, source and GitHub records updated.",
       "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
       "channel_title": "Nora Rose Jean Fans",
       "folder_name": "Nora Rose Jean Fans",
@@ -38,7 +38,7 @@
         38958448007
       ],
       "test_started": "2026-10-16T19:59:25.044280+00:00",
-      "test_passed": true,
+      "test_passed": false,
       "test_url": "https://github.com/thenaimatullahmajeed/youtube-nora-rose-jean-fans/actions/runs/38958937393",
       "source_type": "drive",
       "owner": "thenaimatullahmajeed",
@@ -61,9 +61,9 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "e2d44eb9b11aa890d3f1f3936f550fd233c26101",
-    "saved_at": "2026-10-17T21:40:08.018665+00:00"
+    "head": "0c63c3636e9cb37b187a8264898b0f8db98e5638",
+    "saved_at": "2026-10-17T21:42:44.660763+00:00"
   },
-  "last_sync": "",
-  "notice": "Updated local panel and private GitHub records are ready. Set Recovery Password, import the existing GitHub connection, then reconnect Google once for portable credentials/live stats. Meta setup is not configured yet."
+  "last_sync": "2026-10-17T21:48:27.656180+00:00",
+  "notice": "Sync finished. Connections, available stats and records checked."
 }
