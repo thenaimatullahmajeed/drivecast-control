@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "workspace_id": "406b6f1263f3c2b0bae45d79128f3253",
+  "connections": {
+    "gh:thenaimatullahmajeed": {
+      "id": "gh:thenaimatullahmajeed",
+      "kind": "github",
+      "label": "thenaimatullahmajeed",
+      "login": "thenaimatullahmajeed",
+      "status": "Check connection",
+      "checked_at": "",
+      "notice": "Existing CLI login can be imported after vault unlock."
+    }
+  },
+  "clients": {
+    "60554261c82717c8": {
+      "id": "60554261c82717c8",
+      "name": "Nora Rose Jean Fans",
+      "folder_id": "1yUXVCkRHxgIuUhi0R409IV0sNypvCtYF",
+      "channel_input": "https://www.youtube.com/@NoraRoseJeanFan",
+      "repo_name": "youtube-nora-rose-jean-fans",
+      "privacy": "public",
+      "limit": 1,
+      "category": "22",
+      "status": "Automation enabled",
+      "notice": "Daily uploads enabled around 4:15-4:25 PM and 8:15-8:25 PM New York time (random start); maximum 2 attempts per day.",
+      "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
+      "channel_title": "Nora Rose Jean Fans",
+      "folder_name": "Nora Rose Jean Fans",
+      "verified": true,
+      "repo_id": 1422614536,
+      "repo_url": "https://github.com/thenaimatullahmajeed/youtube-nora-rose-jean-fans",
+      "branch": "main",
+      "initial_head": "19851cede4d373ddbac6ed78fe8afa9baef74282",
+      "deployed": true,
+      "enabled": true,
+      "test_before": [
+        38958448007
+      ],
+      "test_started": "2026-10-16T19:59:25.044280+00:00",
+      "test_passed": true,
+      "test_url": "https://github.com/thenaimatullahmajeed/youtube-nora-rose-jean-fans/actions/runs/38958937393",
+      "source_type": "drive",
+      "owner": "thenaimatullahmajeed",
+      "github_connection": "gh:thenaimatullahmajeed",
+      "youtube_connection": "",
+      "drive_connection": "",
+      "meta_connection": "",
+      "instagram_username": "",
+      "source_since": "",
+      "stats": {},
+      "source_stats": {},
+      "credential_status": "Reconnect Google for live stats/portable recovery; existing GitHub secrets preserved.",
+      "worker_version": 1
+    }
+  },
+  "remote": {
+    "connection": "gh:thenaimatullahmajeed",
+    "owner": "thenaimatullahmajeed",
+    "repo": "drivecast-control",
+    "repo_id": 1423767771,
+    "branch": "main",
+    "head": ""
+  },
+  "last_sync": "",
+  "notice": "Existing clients and local records preserved. Reconnect Google once to include credentials in encrypted recovery. Existing repo secrets are unchanged."
+}
