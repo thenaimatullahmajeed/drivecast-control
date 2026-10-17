@@ -23,7 +23,7 @@
       "limit": 1,
       "category": "22",
       "status": "Enabled",
-      "notice": "Available connections, channel stats, source and GitHub records updated.",
+      "notice": "Read-only dry run requested; inspect workflow records.",
       "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
       "channel_title": "Nora Rose Jean Fans",
       "folder_name": "Nora Rose Jean Fans",
@@ -61,8 +61,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "b12c3790feced1a2e2f79919b3e865d38ccfc2b9",
-    "saved_at": "2026-10-17T22:00:12.919576+00:00"
+    "head": "611b9ba97043011e3799bd371fbcab4ccf738e07",
+    "saved_at": "2026-10-17T22:02:23.563354+00:00"
   },
   "last_sync": "2026-10-17T22:00:08.835810+00:00",
   "notice": "Sync finished. Connections, available stats and records checked."
