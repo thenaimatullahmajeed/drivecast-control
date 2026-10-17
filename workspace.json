@@ -74,8 +74,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "188a9e0f0d405b69098d56a9202a9767f6b089b8",
-    "saved_at": "2026-10-17T22:52:59.088487+00:00"
+    "head": "122e0c1cb521368b54e06b72235e974a5e38a7a1",
+    "saved_at": "2026-10-17T23:03:30.847718+00:00"
   },
   "last_sync": "2026-10-17T22:45:08.794476+00:00",
   "notice": "Guided local panel ready. Existing client/history preserved. Export uses the unlock password; Meta app and real Page validation remain owner setup steps.",
