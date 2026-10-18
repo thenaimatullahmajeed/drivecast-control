@@ -8,7 +8,7 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-17T22:45:05.717025+00:00",
+      "checked_at": "2026-10-18T18:37:47.527903+00:00",
       "notice": "Connection test passed."
     }
   },
@@ -23,7 +23,7 @@
       "limit": 1,
       "category": "22",
       "status": "Enabled",
-      "notice": "V3 read-only dry run passed. Public publishing checks hourly; max two daily. Old upload IDs and counters preserved. Reconnect legacy Google once for local stats/encrypted export of credentials.",
+      "notice": "Available connections, channel stats, source and GitHub records updated.",
       "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
       "channel_title": "Nora Rose Jean Fans",
       "folder_name": "Nora Rose Jean Fans",
@@ -53,7 +53,7 @@
         "subscriberCount": "0",
         "hiddenSubscriberCount": false,
         "videoCount": "0",
-        "checked_at": "2026-10-17T22:52:33.946655+00:00"
+        "checked_at": "2026-10-18T16:06:02.379350+00:00"
       },
       "source_stats": {},
       "credential_status": "Reconnect Google for live stats/portable recovery; existing GitHub secrets preserved.",
@@ -65,7 +65,8 @@
       "facebook_page_id": "",
       "facebook_title": "",
       "facebook_format": "auto",
-      "facebook_initialized": false
+      "facebook_initialized": false,
+      "video_stats_checked_at": "2026-10-18T18:38:24.790434+00:00"
     }
   },
   "remote": {
@@ -74,10 +75,10 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "122e0c1cb521368b54e06b72235e974a5e38a7a1",
-    "saved_at": "2026-10-17T23:03:30.847718+00:00"
+    "head": "017f39c4fde83ac288425b2dcb559eaea0ad5c6b",
+    "saved_at": "2026-10-17T23:04:40.406565+00:00"
   },
-  "last_sync": "2026-10-17T22:45:08.794476+00:00",
-  "notice": "Guided local panel ready. Existing client/history preserved. Export uses the unlock password; Meta app and real Page validation remain owner setup steps.",
-  "last_stats_sync": "2026-10-17T22:52:33.946655+00:00"
+  "last_sync": "2026-10-18T18:38:24.790507+00:00",
+  "notice": "Sync finished. Connections, video/channel stats and records checked.",
+  "last_stats_sync": "2026-10-18T18:38:24.790478+00:00"
 }
