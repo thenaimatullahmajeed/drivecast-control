@@ -8,7 +8,7 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-19T19:07:23.502821+00:00",
+      "checked_at": "2026-10-19T19:28:13.397445+00:00",
       "notice": "Connection test passed."
     },
     "youtube:94004255334e2f6b": {
@@ -23,7 +23,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "29"
       },
-      "checked_at": "2026-10-19T19:07:25.210544+00:00",
+      "checked_at": "2026-10-19T19:28:15.719997+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -83,7 +83,7 @@
       "facebook_title": "",
       "facebook_format": "auto",
       "facebook_initialized": false,
-      "video_stats_checked_at": "2026-10-19T19:07:56.775621+00:00"
+      "video_stats_checked_at": "2026-10-19T19:28:20.652586+00:00"
     }
   },
   "remote": {
@@ -92,12 +92,12 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "4e16f48a786ef9c3720859fe29bbe844834e26f6",
-    "saved_at": "2026-10-19T19:13:17.114606+00:00"
+    "head": "a150a263bc8a564ada62029fb4c93e0c86d660bf",
+    "saved_at": "2026-10-19T19:21:38.920630+00:00"
   },
-  "last_sync": "2026-10-19T19:07:56.775649+00:00",
+  "last_sync": "2026-10-19T19:28:20.652623+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
-  "last_stats_sync": "2026-10-19T19:07:56.775638+00:00",
+  "last_stats_sync": "2026-10-19T19:28:20.652612+00:00",
   "meta_diagnostics": {
     "account_name": "Candice Cromwell",
     "account_id": "122243352776282445",
