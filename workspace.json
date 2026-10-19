@@ -92,10 +92,30 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "b7b5f7a3e293a8311aec1557fef41b8524cc00ee",
-    "saved_at": "2026-10-19T19:11:32.660915+00:00"
+    "head": "4e16f48a786ef9c3720859fe29bbe844834e26f6",
+    "saved_at": "2026-10-19T19:13:17.114606+00:00"
   },
   "last_sync": "2026-10-19T19:07:56.775649+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
-  "last_stats_sync": "2026-10-19T19:07:56.775638+00:00"
+  "last_stats_sync": "2026-10-19T19:07:56.775638+00:00",
+  "meta_diagnostics": {
+    "account_name": "Candice Cromwell",
+    "account_id": "122243352776282445",
+    "granted_permissions": [
+      "instagram_basic",
+      "instagram_manage_insights",
+      "pages_manage_posts",
+      "pages_read_engagement",
+      "pages_show_list",
+      "public_profile",
+      "read_insights"
+    ],
+    "checked_at": "2026-10-19T19:21:30.961309+00:00",
+    "pages_returned": 0,
+    "pages_with_tokens": 0,
+    "connected_pages": 0,
+    "connected_instagram": 0,
+    "status": "No Page access",
+    "notice": "Facebook returned no Pages for Candice Cromwell. Page-list permission is granted; check which Pages were selected during consent and the same account's business/Page access."
+  }
 }
