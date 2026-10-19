@@ -10,6 +10,23 @@
       "status": "Connected",
       "checked_at": "2026-10-18T18:37:47.527903+00:00",
       "notice": "Connection test passed."
+    },
+    "youtube:94004255334e2f6b": {
+      "id": "youtube:94004255334e2f6b",
+      "kind": "youtube",
+      "label": "Jess Bacon Fans",
+      "status": "Connected",
+      "channel_id": "UCAIYNUcWKkJsIr4QXR1twpQ",
+      "stats": {
+        "viewCount": "49899",
+        "subscriberCount": "143",
+        "hiddenSubscriberCount": false,
+        "videoCount": "29"
+      },
+      "checked_at": "2026-10-19T18:45:33.029545+00:00",
+      "notice": "Google access verified.",
+      "requested_name": "Jess Bacon Fans",
+      "project_id": "drivecast-511818"
     }
   },
   "clients": {
@@ -75,8 +92,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "017f39c4fde83ac288425b2dcb559eaea0ad5c6b",
-    "saved_at": "2026-10-17T23:04:40.406565+00:00"
+    "head": "14293fcfd0712c7f9472e0827fd7de7eac5db6b0",
+    "saved_at": "2026-10-18T18:38:30.852008+00:00"
   },
   "last_sync": "2026-10-18T18:38:24.790507+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
