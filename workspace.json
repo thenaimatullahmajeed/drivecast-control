@@ -8,7 +8,7 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-18T18:37:47.527903+00:00",
+      "checked_at": "2026-10-19T19:07:23.502821+00:00",
       "notice": "Connection test passed."
     },
     "youtube:94004255334e2f6b": {
@@ -23,8 +23,8 @@
         "hiddenSubscriberCount": false,
         "videoCount": "29"
       },
-      "checked_at": "2026-10-19T18:45:33.029545+00:00",
-      "notice": "Google access verified.",
+      "checked_at": "2026-10-19T19:07:25.210544+00:00",
+      "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
     }
@@ -70,7 +70,7 @@
         "subscriberCount": "0",
         "hiddenSubscriberCount": false,
         "videoCount": "0",
-        "checked_at": "2026-10-18T16:06:02.379350+00:00"
+        "checked_at": "2026-10-19T13:52:10.208988+00:00"
       },
       "source_stats": {},
       "credential_status": "Reconnect Google for live stats/portable recovery; existing GitHub secrets preserved.",
@@ -83,7 +83,7 @@
       "facebook_title": "",
       "facebook_format": "auto",
       "facebook_initialized": false,
-      "video_stats_checked_at": "2026-10-18T18:38:24.790434+00:00"
+      "video_stats_checked_at": "2026-10-19T19:07:56.775621+00:00"
     }
   },
   "remote": {
@@ -92,10 +92,10 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "39337f92892441a591d69524498887cebb1d05e2",
-    "saved_at": "2026-10-19T19:00:54.091525+00:00"
+    "head": "d29cf743293a7547f36424b456395709b361b401",
+    "saved_at": "2026-10-19T19:06:17.146754+00:00"
   },
-  "last_sync": "2026-10-18T18:38:24.790507+00:00",
+  "last_sync": "2026-10-19T19:07:56.775649+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
-  "last_stats_sync": "2026-10-18T18:38:24.790478+00:00"
+  "last_stats_sync": "2026-10-19T19:07:56.775638+00:00"
 }
