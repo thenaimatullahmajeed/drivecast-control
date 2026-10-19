@@ -92,8 +92,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "a150a263bc8a564ada62029fb4c93e0c86d660bf",
-    "saved_at": "2026-10-19T19:21:38.920630+00:00"
+    "head": "7b9d7c8a651a6981a11c4022913101592c5791a4",
+    "saved_at": "2026-10-19T19:28:25.592154+00:00"
   },
   "last_sync": "2026-10-19T19:28:20.652623+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
@@ -110,12 +110,13 @@
       "public_profile",
       "read_insights"
     ],
-    "checked_at": "2026-10-19T19:21:30.961309+00:00",
+    "checked_at": "2026-10-19T19:30:06.760363+00:00",
     "pages_returned": 0,
     "pages_with_tokens": 0,
     "connected_pages": 0,
     "connected_instagram": 0,
-    "status": "No Page access",
-    "notice": "Facebook returned no Pages for Candice Cromwell. Page-list permission is granted; check which Pages were selected during consent and the same account's business/Page access."
+    "status": "Portfolio permission needed",
+    "notice": "Facebook login is approved, but this portfolio needs business_management. Add it to your Meta Login for Business configuration, then authorize again and select the intended portfolio/Page. No Facebook posting is enabled by this step.",
+    "business_id": "960042316691264"
   }
 }
