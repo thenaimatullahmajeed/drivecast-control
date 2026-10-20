@@ -719,7 +719,7 @@
       },
       "verified": true,
       "source_verified": true,
-      "notice": "Source and exact destination verified. Normal publishing is Public; private test is optional.",
+      "notice": "Read-only dry run requested. Review it, then Enable Public publishing; private test is optional.",
       "instagram_username": "michellejulietnaylaa",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -927,8 +927,16 @@
           }
         ]
       },
-      "status": "Ready",
-      "enabled": false
+      "status": "Deployed — paused",
+      "enabled": false,
+      "repo_id": 1427604086,
+      "branch": "main",
+      "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
+      "facebook_initialized": false,
+      "deployed": true,
+      "worker_version": 4,
+      "schedule_deployed": true,
+      "test_passed": false
     }
   },
   "remote": {
@@ -937,8 +945,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "782ba780718b728a659a30c56067716438d4e69c",
-    "saved_at": "2026-10-20T21:56:03.470414+00:00"
+    "head": "f05cf43217aeafc0771e8ca0f89cf938726fd427",
+    "saved_at": "2026-10-20T21:56:32.486111+00:00"
   },
   "last_sync": "2026-10-20T21:50:33.054313+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
