@@ -8,7 +8,7 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-20T21:49:54.191178+00:00",
+      "checked_at": "2026-10-20T23:01:57.227968+00:00",
       "notice": "Connection test passed."
     },
     "youtube:94004255334e2f6b": {
@@ -23,7 +23,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "30"
       },
-      "checked_at": "2026-10-20T21:49:55.821909+00:00",
+      "checked_at": "2026-10-20T23:01:59.733794+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -35,7 +35,7 @@
       "page_id": "1291106734095763",
       "status": "Connected",
       "can_publish": true,
-      "checked_at": "2026-10-20T21:49:56.512722+00:00",
+      "checked_at": "2026-10-20T23:02:00.196815+00:00",
       "notice": "Connection test passed.",
       "meta_app_id": "1819250915866654"
     },
@@ -45,7 +45,7 @@
       "label": "scholarshippost",
       "ig_user_id": "17841448175023222",
       "status": "Connected",
-      "checked_at": "2026-10-20T21:49:57.320582+00:00",
+      "checked_at": "2026-10-20T23:02:00.632314+00:00",
       "notice": "Connection test passed.",
       "meta_app_id": "1819250915866654"
     },
@@ -61,7 +61,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "1"
       },
-      "checked_at": "2026-10-20T21:49:58.855894+00:00",
+      "checked_at": "2026-10-20T23:02:02.967142+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -78,7 +78,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "31"
       },
-      "checked_at": "2026-10-20T21:50:00.415432+00:00",
+      "checked_at": "2026-10-20T23:02:05.093261+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Cassandra Evans",
       "project_id": "drivecast-511818"
@@ -89,7 +89,7 @@
       "label": "candicecrowmwell-cloud",
       "login": "candicecrowmwell-cloud",
       "status": "Connected",
-      "checked_at": "2026-10-20T21:50:01.046713+00:00",
+      "checked_at": "2026-10-20T23:02:05.681438+00:00",
       "notice": "Connection test passed."
     },
     "youtube:687186aa0b7e44eb": {
@@ -104,8 +104,8 @@
         "hiddenSubscriberCount": false,
         "videoCount": "3"
       },
-      "checked_at": "2026-10-20T21:57:28.611288+00:00",
-      "notice": "Google access verified.",
+      "checked_at": "2026-10-20T23:02:07.829665+00:00",
+      "notice": "Connection test passed.",
       "requested_name": "Michelle juliet Nayla Fans",
       "project_id": "drivecast-511818"
     }
@@ -164,7 +164,7 @@
       "facebook_title": "",
       "facebook_format": "auto",
       "facebook_initialized": false,
-      "video_stats_checked_at": "2026-10-20T21:50:30.602762+00:00",
+      "video_stats_checked_at": "2026-10-20T23:02:45.747340+00:00",
       "schedule_deployed": true,
       "schedule_mode": "smart",
       "schedule_timezone": "America/Los_Angeles",
@@ -201,7 +201,7 @@
         "subscriberCount": "144",
         "hiddenSubscriberCount": false,
         "videoCount": "30",
-        "checked_at": "2026-10-20T17:30:39.377498+00:00"
+        "checked_at": "2026-10-20T21:51:21.954963+00:00"
       },
       "verified": true,
       "source_verified": true,
@@ -222,11 +222,11 @@
         "username": "jesskbacon",
         "name": "Jess Bacon",
         "media_count": 1563,
-        "followers_count": 205654,
+        "followers_count": 205656,
         "video_count": 46,
         "available": 11,
         "blocked": 35,
-        "checked_at": "2026-10-20T21:50:12.872720+00:00",
+        "checked_at": "2026-10-20T23:02:16.206169+00:00",
         "preview": [
           {
             "id": "18017023520870579",
@@ -421,7 +421,7 @@
       "test_passed": false,
       "credential_status": "YouTube connection valid",
       "actual_privacy": "public",
-      "video_stats_checked_at": "2026-10-20T21:50:32.221763+00:00",
+      "video_stats_checked_at": "2026-10-20T23:02:48.047577+00:00",
       "schedule_deployed": true,
       "schedule_mode": "smart",
       "schedule_timezone": "America/Los_Angeles",
@@ -435,12 +435,12 @@
         ]
       },
       "last_run": {
-        "id": 39481908143,
+        "id": 39503671279,
         "status": "completed",
         "conclusion": "success",
-        "created_at": "2026-10-20T19:15:31Z",
-        "updated_at": "2026-10-20T19:15:50Z",
-        "html_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans/actions/runs/39481908143"
+        "created_at": "2026-10-20T21:51:10Z",
+        "updated_at": "2026-10-20T21:51:25Z",
+        "html_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans/actions/runs/39503671279"
       }
     },
     "d15e5f6a822aa226": {
@@ -461,7 +461,7 @@
         "subscriberCount": "535",
         "hiddenSubscriberCount": false,
         "videoCount": "31",
-        "checked_at": "2026-10-20T21:50:00.415432+00:00"
+        "checked_at": "2026-10-20T23:02:05.093261+00:00"
       },
       "verified": true,
       "source_verified": true,
@@ -482,11 +482,11 @@
         "username": "jesskbacon",
         "name": "Jess Bacon",
         "media_count": 1563,
-        "followers_count": 205654,
+        "followers_count": 205656,
         "video_count": 46,
         "available": 11,
         "blocked": 35,
-        "checked_at": "2026-10-20T21:50:19.490857+00:00",
+        "checked_at": "2026-10-20T23:02:28.643278+00:00",
         "preview": [
           {
             "id": "18017023520870579",
@@ -673,7 +673,7 @@
       "status": "Enabled",
       "enabled": true,
       "credential_status": "YouTube connection valid",
-      "video_stats_checked_at": "2026-10-20T21:50:33.054274+00:00",
+      "video_stats_checked_at": "2026-10-20T23:02:49.224386+00:00",
       "schedule_mode": "smart",
       "repo_id": 1427574571,
       "branch": "main",
@@ -715,11 +715,12 @@
         "viewCount": "458",
         "subscriberCount": "7",
         "hiddenSubscriberCount": false,
-        "videoCount": "3"
+        "videoCount": "3",
+        "checked_at": "2026-10-20T23:02:07.829665+00:00"
       },
       "verified": true,
       "source_verified": true,
-      "notice": "Migrated with verified history. Original automation is stopped.",
+      "notice": "Available connections, channel stats, source and GitHub records updated.",
       "instagram_username": "michellejulietnaylaa",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -739,11 +740,11 @@
         "username": "michellejulietnaylaa",
         "name": "Michelle Nayla",
         "media_count": 1766,
-        "followers_count": 1083999,
+        "followers_count": 1083996,
         "video_count": 83,
         "available": 57,
         "blocked": 26,
-        "checked_at": "2026-10-20T21:57:33.628850+00:00",
+        "checked_at": "2026-10-20T23:02:39.897712+00:00",
         "preview": [
           {
             "id": "18099705833057795",
@@ -947,7 +948,15 @@
           "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
           "enabled": true
         }
-      ]
+      ],
+      "credential_status": "YouTube connection valid",
+      "actual_privacy": "public",
+      "schedule_usage": {
+        "date": "2026-10-20",
+        "count": 0,
+        "reservations": []
+      },
+      "video_stats_checked_at": "2026-10-20T23:02:50.410482+00:00"
     }
   },
   "remote": {
@@ -956,12 +965,12 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "17e347b79b1fe4b306bca4a1ec714bcd9a87a6b3",
-    "saved_at": "2026-10-20T21:58:14.034232+00:00"
+    "head": "36cc628871d931c7908d6a52e68a113192f1b539",
+    "saved_at": "2026-10-20T21:59:03.473165+00:00"
   },
-  "last_sync": "2026-10-20T21:50:33.054313+00:00",
+  "last_sync": "2026-10-20T23:02:50.410541+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
-  "last_stats_sync": "2026-10-20T21:50:33.054294+00:00",
+  "last_stats_sync": "2026-10-20T23:02:50.410511+00:00",
   "meta_apps": {
     "1819250915866654": {
       "app_id": "1819250915866654",
