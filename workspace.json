@@ -82,6 +82,15 @@
       "notice": "Google access verified.",
       "requested_name": "Cassandra Evans",
       "project_id": "drivecast-511818"
+    },
+    "gh:candicecrowmwell-cloud": {
+      "id": "gh:candicecrowmwell-cloud",
+      "kind": "github",
+      "label": "candicecrowmwell-cloud",
+      "login": "candicecrowmwell-cloud",
+      "status": "Connected",
+      "checked_at": "2026-10-20T21:49:00.097104+00:00",
+      "notice": "Verified account; every client stays pinned to its selected owner."
     }
   },
   "clients": {
@@ -649,8 +658,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "b7f1239cfe1c725fccf5aae6af629c1bb3bf2f47",
-    "saved_at": "2026-10-20T21:19:25.542624+00:00"
+    "head": "351c5f1cb0f7df4b59a4034a4a3867cd599c07cc",
+    "saved_at": "2026-10-20T21:19:58.448205+00:00"
   },
   "last_sync": "2026-10-20T20:07:02.399194+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
