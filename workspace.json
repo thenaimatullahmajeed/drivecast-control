@@ -142,7 +142,7 @@
       },
       "verified": true,
       "source_verified": true,
-      "notice": "Source and exact destination verified. Normal publishing is Public; private test is optional.",
+      "notice": "Read-only dry run requested. Review it, then Enable Public publishing; private test is optional.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -347,8 +347,15 @@
           }
         ]
       },
-      "status": "Ready",
-      "enabled": false
+      "status": "Deployed — paused",
+      "enabled": false,
+      "repo_id": 1426788030,
+      "branch": "main",
+      "repo_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans",
+      "facebook_initialized": false,
+      "deployed": true,
+      "worker_version": 3,
+      "test_passed": false
     }
   },
   "remote": {
@@ -357,8 +364,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "441a1241d9a1fa6583fcba1b8e1e2b8ec08d5fac",
-    "saved_at": "2026-10-20T09:11:05.371440+00:00"
+    "head": "71edb44854335526c6e2438b9b8d180ceab3286c",
+    "saved_at": "2026-10-20T09:19:32.054580+00:00"
   },
   "last_sync": "2026-10-19T19:28:20.652623+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
