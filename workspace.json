@@ -23,7 +23,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "29"
       },
-      "checked_at": "2026-10-20T09:19:21.655926+00:00",
+      "checked_at": "2026-10-20T09:50:36.366735+00:00",
       "notice": "Google access verified.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -142,7 +142,7 @@
       },
       "verified": true,
       "source_verified": true,
-      "notice": "Read-only dry run requested. Review it, then Enable Public publishing; private test is optional.",
+      "notice": "First Public upload check queued. Automatic checks continue at the configured interval.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -159,11 +159,11 @@
         "username": "jesskbacon",
         "name": "Jess Bacon",
         "media_count": 1562,
-        "followers_count": 205684,
+        "followers_count": 205685,
         "video_count": 46,
         "available": 10,
         "blocked": 36,
-        "checked_at": "2026-10-20T09:19:26.992007+00:00",
+        "checked_at": "2026-10-20T09:50:40.691122+00:00",
         "preview": [
           {
             "id": "18112882004318198",
@@ -347,8 +347,8 @@
           }
         ]
       },
-      "status": "Deployed — paused",
-      "enabled": false,
+      "status": "Enabled",
+      "enabled": true,
       "repo_id": 1426788030,
       "branch": "main",
       "repo_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans",
@@ -364,8 +364,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "71edb44854335526c6e2438b9b8d180ceab3286c",
-    "saved_at": "2026-10-20T09:19:32.054580+00:00"
+    "head": "3379e39ee9c9d98fd2a25a82873e0c76d0cb45e8",
+    "saved_at": "2026-10-20T09:20:22.550062+00:00"
   },
   "last_sync": "2026-10-19T19:28:20.652623+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
