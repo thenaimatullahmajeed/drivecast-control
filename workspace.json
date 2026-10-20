@@ -78,8 +78,8 @@
         "hiddenSubscriberCount": false,
         "videoCount": "31"
       },
-      "checked_at": "2026-10-20T20:06:39.969597+00:00",
-      "notice": "Connection test passed.",
+      "checked_at": "2026-10-20T21:19:43.655686+00:00",
+      "notice": "Google access verified.",
       "requested_name": "Cassandra Evans",
       "project_id": "drivecast-511818"
     }
@@ -423,7 +423,7 @@
       },
       "verified": true,
       "source_verified": true,
-      "notice": "Read-only dry run requested. Review it, then Enable Public publishing; private test is optional.",
+      "notice": "First Public upload check queued. Automatic checks continue at the configured interval.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -440,11 +440,11 @@
         "username": "jesskbacon",
         "name": "Jess Bacon",
         "media_count": 1563,
-        "followers_count": 205659,
+        "followers_count": 205655,
         "video_count": 46,
         "available": 11,
         "blocked": 35,
-        "checked_at": "2026-10-20T20:06:56.407908+00:00",
+        "checked_at": "2026-10-20T21:19:47.494931+00:00",
         "preview": [
           {
             "id": "18017023520870579",
@@ -628,8 +628,8 @@
           }
         ]
       },
-      "status": "Deployed — paused",
-      "enabled": false,
+      "status": "Enabled",
+      "enabled": true,
       "credential_status": "YouTube connection valid",
       "video_stats_checked_at": "2026-10-20T20:07:02.399164+00:00",
       "schedule_mode": "smart",
@@ -649,8 +649,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "3ec8226e266d294241d70836fe1aed3c83ee8cdd",
-    "saved_at": "2026-10-20T21:19:10.988587+00:00"
+    "head": "b7f1239cfe1c725fccf5aae6af629c1bb3bf2f47",
+    "saved_at": "2026-10-20T21:19:25.542624+00:00"
   },
   "last_sync": "2026-10-20T20:07:02.399194+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
