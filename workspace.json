@@ -111,8 +111,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "754e2bfcd8584c1ef1cc287e6bfb98a77d4d9dcc",
-    "saved_at": "2026-10-20T08:59:57.378751+00:00"
+    "head": "bfa2c833facf7dbc954f1b77b74bd075d0f33f69",
+    "saved_at": "2026-10-20T09:02:50.311063+00:00"
   },
   "last_sync": "2026-10-19T19:28:20.652623+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
@@ -144,8 +144,8 @@
     "source_type": "instagram",
     "folder_id": "",
     "drive_connection": "",
-    "instagram_username": "",
-    "meta_connection": "",
+    "instagram_username": "@jesskbacon",
+    "meta_connection": "meta:17841448175023222",
     "source_since": "",
     "youtube_connection": "youtube:94004255334e2f6b",
     "requested_channel_name": "",
