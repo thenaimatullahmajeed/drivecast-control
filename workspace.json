@@ -76,8 +76,8 @@
         "hiddenSubscriberCount": false,
         "videoCount": "31"
       },
-      "checked_at": "2026-10-20T13:13:57.204474+00:00",
-      "notice": "Connection test passed.",
+      "checked_at": "2026-10-20T13:28:00.140368+00:00",
+      "notice": "Google access verified.",
       "requested_name": "Cassandra Evans",
       "project_id": "drivecast-511818"
     }
@@ -385,8 +385,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "2ec7d87e1f05f4259507fc39b402dea286e4b023",
-    "saved_at": "2026-10-20T12:56:50.126892+00:00"
+    "head": "4ce172b245f8cc7daf6d17519c6ffa83d53a9166",
+    "saved_at": "2026-10-20T13:14:27.572789+00:00"
   },
   "last_sync": "2026-10-20T13:14:22.277869+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
