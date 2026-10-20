@@ -91,6 +91,23 @@
       "status": "Connected",
       "checked_at": "2026-10-20T21:50:01.046713+00:00",
       "notice": "Connection test passed."
+    },
+    "youtube:687186aa0b7e44eb": {
+      "id": "youtube:687186aa0b7e44eb",
+      "kind": "youtube",
+      "label": " Michelle juliet Nayla Fans",
+      "status": "Connected",
+      "channel_id": "UCMQWrtXP7pPwyv1fDL7BJ6g",
+      "stats": {
+        "viewCount": "458",
+        "subscriberCount": "7",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3"
+      },
+      "checked_at": "2026-10-20T21:55:02.189761+00:00",
+      "notice": "Google access verified.",
+      "requested_name": "Michelle juliet Nayla Fans",
+      "project_id": "drivecast-511818"
     }
   },
   "clients": {
@@ -688,8 +705,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "71ed9e6dbcd209433dd9a3915e4110cbb7046b04",
-    "saved_at": "2026-10-20T21:50:37.590025+00:00"
+    "head": "2ad84cbb503752b64cf01bb8df12b12f0442548e",
+    "saved_at": "2026-10-20T21:51:31.015408+00:00"
   },
   "last_sync": "2026-10-20T21:50:33.054313+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
