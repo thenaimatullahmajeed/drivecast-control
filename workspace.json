@@ -129,7 +129,7 @@
       },
       "source_stats": {},
       "credential_status": "YouTube connection valid",
-      "worker_version": 3,
+      "worker_version": 4,
       "actual_privacy": "public",
       "check_minutes": 60,
       "max_uploads_per_day": 2,
@@ -145,7 +145,8 @@
       "schedule_windows": "12:00-14:00,18:00-21:00",
       "schedule_usage": {
         "date": "2026-10-20",
-        "count": 0
+        "count": 0,
+        "reservations": []
       }
     },
     "12ca90b37f29f452": {
@@ -635,8 +636,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "09c648460766faadd7547b66cc8feab935bb7846",
-    "saved_at": "2026-10-20T20:29:50.424551+00:00"
+    "head": "c4bb107e621c0f9e81ff4d7dae58dafa5597c0c4",
+    "saved_at": "2026-10-20T20:30:08.828627+00:00"
   },
   "last_sync": "2026-10-20T20:07:02.399194+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
