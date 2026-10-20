@@ -702,8 +702,8 @@
       "id": "154a36b0befb3096",
       "name": "Michelle juliet Nayla Fans",
       "source_type": "instagram",
-      "owner": "thenaimatullahmajeed",
-      "github_connection": "gh:thenaimatullahmajeed",
+      "owner": "candicecrowmwell-cloud",
+      "github_connection": "gh:candicecrowmwell-cloud",
       "youtube_connection": "youtube:687186aa0b7e44eb",
       "channel_id": "UCMQWrtXP7pPwyv1fDL7BJ6g",
       "channel_title": " Michelle juliet Nayla Fans",
@@ -719,7 +719,7 @@
       },
       "verified": true,
       "source_verified": true,
-      "notice": "First Public upload check queued. Automatic checks continue at the configured interval.",
+      "notice": "Migrated with verified history. Original automation is stopped.",
       "instagram_username": "michellejulietnaylaa",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -929,14 +929,25 @@
       },
       "status": "Enabled",
       "enabled": true,
-      "repo_id": 1427604086,
+      "repo_id": 1427605500,
       "branch": "main",
-      "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
+      "repo_url": "https://github.com/candicecrowmwell-cloud/youtube-cassandra-evans",
       "facebook_initialized": false,
       "deployed": true,
       "worker_version": 4,
       "schedule_deployed": true,
-      "test_passed": false
+      "test_passed": false,
+      "route_history": [
+        {
+          "owner": "thenaimatullahmajeed",
+          "repo_name": "youtube-cassandra-evans",
+          "repo_id": 1427604086,
+          "github_connection": "gh:thenaimatullahmajeed",
+          "branch": "main",
+          "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
+          "enabled": true
+        }
+      ]
     }
   },
   "remote": {
@@ -945,8 +956,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "79d83fbfb3959d387abba49873354640e25abab3",
-    "saved_at": "2026-10-20T21:57:44.108776+00:00"
+    "head": "17e347b79b1fe4b306bca4a1ec714bcd9a87a6b3",
+    "saved_at": "2026-10-20T21:58:14.034232+00:00"
   },
   "last_sync": "2026-10-20T21:50:33.054313+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
@@ -957,5 +968,28 @@
       "label": "DriveCast Meta app"
     }
   },
-  "active_meta_app_id": "1819250915866654"
+  "active_meta_app_id": "1819250915866654",
+  "migrations": [
+    {
+      "id": "154a36b0befb3096",
+      "name": "Michelle juliet Nayla Fans",
+      "from_account": "thenaimatullahmajeed",
+      "to_account": "candicecrowmwell-cloud",
+      "original_route": {
+        "owner": "thenaimatullahmajeed",
+        "repo_name": "youtube-cassandra-evans",
+        "repo_id": 1427604086,
+        "github_connection": "gh:thenaimatullahmajeed",
+        "branch": "main",
+        "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
+        "enabled": true
+      },
+      "started_at": "2026-10-20T21:58:20.223137+00:00",
+      "status": "Complete",
+      "destination_repo_id": 1427605500,
+      "destination_repo": "https://github.com/candicecrowmwell-cloud/youtube-cassandra-evans",
+      "verified_at": "2026-10-20T21:58:56.364651+00:00",
+      "finished_at": "2026-10-20T21:58:58.748480+00:00"
+    }
+  ]
 }
