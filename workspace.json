@@ -170,7 +170,7 @@
       },
       "verified": true,
       "source_verified": true,
-      "notice": "Available connections, channel stats, source and GitHub records updated.",
+      "notice": "Preferred posting windows saved. Existing upload history and daily limits preserved.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -386,7 +386,15 @@
       "test_passed": false,
       "credential_status": "YouTube connection valid",
       "actual_privacy": "public",
-      "video_stats_checked_at": "2026-10-20T20:07:00.913258+00:00"
+      "video_stats_checked_at": "2026-10-20T20:07:00.913258+00:00",
+      "schedule_deployed": true,
+      "schedule_mode": "smart",
+      "schedule_timezone": "America/Los_Angeles",
+      "schedule_windows": "12:00-14:00,18:00-21:00",
+      "schedule_usage": {
+        "date": "2026-10-20",
+        "count": 2
+      }
     },
     "d15e5f6a822aa226": {
       "id": "d15e5f6a822aa226",
@@ -627,8 +635,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "febc2cf1e218966fb16b9a9afaf4dccd60cbee67",
-    "saved_at": "2026-10-20T20:09:14.262842+00:00"
+    "head": "09c648460766faadd7547b66cc8feab935bb7846",
+    "saved_at": "2026-10-20T20:29:50.424551+00:00"
   },
   "last_sync": "2026-10-20T20:07:02.399194+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
