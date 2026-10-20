@@ -688,33 +688,12 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "3cb86fd8fb047e8ae037533c2708f19ddc019ed1",
-    "saved_at": "2026-10-20T21:49:41.383096+00:00"
+    "head": "71ed9e6dbcd209433dd9a3915e4110cbb7046b04",
+    "saved_at": "2026-10-20T21:50:37.590025+00:00"
   },
   "last_sync": "2026-10-20T21:50:33.054313+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
   "last_stats_sync": "2026-10-20T21:50:33.054294+00:00",
-  "meta_diagnostics": {
-    "account_name": "Candice Cromwell",
-    "account_id": "122243352776282445",
-    "granted_permissions": [
-      "business_management",
-      "instagram_basic",
-      "instagram_manage_insights",
-      "pages_manage_posts",
-      "pages_read_engagement",
-      "pages_show_list",
-      "public_profile",
-      "read_insights"
-    ],
-    "checked_at": "2026-10-20T12:56:36.331223+00:00",
-    "pages_returned": 1,
-    "pages_with_tokens": 1,
-    "connected_pages": 1,
-    "connected_instagram": 1,
-    "status": "Connected",
-    "notice": "Pages and linked Instagram access verified."
-  },
   "draft": {
     "id": "",
     "name": "Cassandra_Evans",
