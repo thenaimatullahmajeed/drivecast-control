@@ -46,6 +46,23 @@
       "status": "Connected",
       "checked_at": "2026-10-20T09:02:35.933183+00:00",
       "notice": "Facebook Login token verified. Expiry depends on token type; renew/reconnect when required."
+    },
+    "youtube:d1f103c41efd3b5e": {
+      "id": "youtube:d1f103c41efd3b5e",
+      "kind": "youtube",
+      "label": "Nora Rose Jean Fans",
+      "status": "Connected",
+      "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
+      "stats": {
+        "viewCount": "0",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "0"
+      },
+      "checked_at": "2026-10-20T09:08:26.558558+00:00",
+      "notice": "Google access verified.",
+      "requested_name": "Jess Bacon Fans",
+      "project_id": "drivecast-511818"
     }
   },
   "clients": {
@@ -79,7 +96,7 @@
       "source_type": "drive",
       "owner": "thenaimatullahmajeed",
       "github_connection": "gh:thenaimatullahmajeed",
-      "youtube_connection": "",
+      "youtube_connection": "youtube:d1f103c41efd3b5e",
       "drive_connection": "",
       "meta_connection": "",
       "instagram_username": "",
@@ -111,8 +128,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "bd76d71451e9ad632575ad2bdb14887d65a3cc49",
-    "saved_at": "2026-10-20T09:05:58.854521+00:00"
+    "head": "3b459b571b2cf4ffcbf9716fa734599021ba8a6b",
+    "saved_at": "2026-10-20T09:06:14.348129+00:00"
   },
   "last_sync": "2026-10-19T19:28:20.652623+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
