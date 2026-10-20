@@ -92,8 +92,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "deeb287a3a6d0af9ba16a01d64feddad14ee9a53",
-    "saved_at": "2026-10-19T19:30:12.939362+00:00"
+    "head": "9691120776cbadc432a962a6ec49fb436792ce0f",
+    "saved_at": "2026-10-19T19:37:35.191838+00:00"
   },
   "last_sync": "2026-10-19T19:28:20.652623+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
@@ -118,5 +118,25 @@
     "status": "Portfolio permission needed",
     "notice": "Facebook login is approved, but this portfolio needs business_management. Add it to your Meta Login for Business configuration, then authorize again and select the intended portfolio/Page. No Facebook posting is enabled by this step.",
     "business_id": "960042316691264"
+  },
+  "draft": {
+    "id": "",
+    "name": "Jess Bacon Fans",
+    "source_type": "instagram",
+    "folder_id": "",
+    "drive_connection": "",
+    "instagram_username": "",
+    "meta_connection": "",
+    "source_since": "",
+    "youtube_connection": "youtube:94004255334e2f6b",
+    "requested_channel_name": "",
+    "channel_name_confirmed": false,
+    "facebook_connection": "",
+    "facebook_format": "auto",
+    "github_connection": "gh:thenaimatullahmajeed",
+    "repo_name": "youtube-jess-bacon-fans",
+    "check_minutes": 60,
+    "max_uploads_per_day": 2,
+    "step": 2
   }
 }
