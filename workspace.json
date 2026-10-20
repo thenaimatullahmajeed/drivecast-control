@@ -8,7 +8,7 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-20T18:36:12.542786+00:00",
+      "checked_at": "2026-10-20T19:40:02.943080+00:00",
       "notice": "Connection test passed."
     },
     "youtube:94004255334e2f6b": {
@@ -23,7 +23,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "30"
       },
-      "checked_at": "2026-10-20T18:36:14.593393+00:00",
+      "checked_at": "2026-10-20T19:40:05.148136+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -35,7 +35,7 @@
       "page_id": "1291106734095763",
       "status": "Connected",
       "can_publish": true,
-      "checked_at": "2026-10-20T18:36:15.192223+00:00",
+      "checked_at": "2026-10-20T19:40:05.846561+00:00",
       "notice": "Connection test passed."
     },
     "meta:17841448175023222": {
@@ -44,7 +44,7 @@
       "label": "scholarshippost",
       "ig_user_id": "17841448175023222",
       "status": "Connected",
-      "checked_at": "2026-10-20T18:36:16.003837+00:00",
+      "checked_at": "2026-10-20T19:40:06.429320+00:00",
       "notice": "Connection test passed."
     },
     "youtube:d1f103c41efd3b5e": {
@@ -59,7 +59,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "1"
       },
-      "checked_at": "2026-10-20T18:36:17.819411+00:00",
+      "checked_at": "2026-10-20T19:40:08.301016+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -76,7 +76,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "31"
       },
-      "checked_at": "2026-10-20T18:36:19.431997+00:00",
+      "checked_at": "2026-10-20T19:40:10.240604+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Cassandra Evans",
       "project_id": "drivecast-511818"
@@ -136,7 +136,7 @@
       "facebook_title": "",
       "facebook_format": "auto",
       "facebook_initialized": false,
-      "video_stats_checked_at": "2026-10-20T18:36:51.026392+00:00"
+      "video_stats_checked_at": "2026-10-20T19:40:31.499583+00:00"
     },
     "12ca90b37f29f452": {
       "id": "12ca90b37f29f452",
@@ -177,11 +177,11 @@
         "username": "jesskbacon",
         "name": "Jess Bacon",
         "media_count": 1563,
-        "followers_count": 205660,
+        "followers_count": 205659,
         "video_count": 46,
         "available": 11,
         "blocked": 35,
-        "checked_at": "2026-10-20T18:36:36.007387+00:00",
+        "checked_at": "2026-10-20T19:40:18.760899+00:00",
         "preview": [
           {
             "id": "18017023520870579",
@@ -376,7 +376,7 @@
       "test_passed": false,
       "credential_status": "YouTube connection valid",
       "actual_privacy": "public",
-      "video_stats_checked_at": "2026-10-20T18:36:52.773843+00:00"
+      "video_stats_checked_at": "2026-10-20T19:40:33.967586+00:00"
     },
     "d15e5f6a822aa226": {
       "id": "d15e5f6a822aa226",
@@ -396,7 +396,7 @@
         "subscriberCount": "535",
         "hiddenSubscriberCount": false,
         "videoCount": "31",
-        "checked_at": "2026-10-20T18:36:19.431997+00:00"
+        "checked_at": "2026-10-20T19:40:10.240604+00:00"
       },
       "verified": true,
       "source_verified": true,
@@ -417,11 +417,11 @@
         "username": "jesskbacon",
         "name": "Jess Bacon",
         "media_count": 1563,
-        "followers_count": 205660,
+        "followers_count": 205659,
         "video_count": 46,
         "available": 11,
         "blocked": 35,
-        "checked_at": "2026-10-20T18:36:49.282802+00:00",
+        "checked_at": "2026-10-20T19:40:29.484458+00:00",
         "preview": [
           {
             "id": "18017023520870579",
@@ -608,7 +608,7 @@
       "status": "Ready",
       "enabled": false,
       "credential_status": "YouTube connection valid",
-      "video_stats_checked_at": "2026-10-20T18:36:53.601775+00:00"
+      "video_stats_checked_at": "2026-10-20T19:40:34.870508+00:00"
     }
   },
   "remote": {
@@ -617,12 +617,12 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "bf9cf0cbedfc5349c0eaba9904bba6c29aae7f18",
-    "saved_at": "2026-10-20T13:34:28.017073+00:00"
+    "head": "eae2aec2adda46e03ab0c65c75664e7400285a32",
+    "saved_at": "2026-10-20T18:36:58.502693+00:00"
   },
-  "last_sync": "2026-10-20T18:36:53.601830+00:00",
+  "last_sync": "2026-10-20T19:40:34.870549+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
-  "last_stats_sync": "2026-10-20T18:36:53.601802+00:00",
+  "last_stats_sync": "2026-10-20T19:40:34.870528+00:00",
   "meta_diagnostics": {
     "account_name": "Candice Cromwell",
     "account_id": "122243352776282445",
