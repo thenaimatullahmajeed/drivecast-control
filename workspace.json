@@ -36,7 +36,8 @@
       "status": "Connected",
       "can_publish": true,
       "checked_at": "2026-10-20T20:06:36.273778+00:00",
-      "notice": "Connection test passed."
+      "notice": "Connection test passed.",
+      "meta_app_id": "1819250915866654"
     },
     "meta:17841448175023222": {
       "id": "meta:17841448175023222",
@@ -45,7 +46,8 @@
       "ig_user_id": "17841448175023222",
       "status": "Connected",
       "checked_at": "2026-10-20T20:06:36.777031+00:00",
-      "notice": "Connection test passed."
+      "notice": "Connection test passed.",
+      "meta_app_id": "1819250915866654"
     },
     "youtube:d1f103c41efd3b5e": {
       "id": "youtube:d1f103c41efd3b5e",
@@ -93,7 +95,7 @@
       "limit": 1,
       "category": "22",
       "status": "Enabled",
-      "notice": "Available connections, channel stats, source and GitHub records updated.",
+      "notice": "Preferred posting windows saved. Existing upload history and daily limits preserved.",
       "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
       "channel_title": "Nora Rose Jean Fans",
       "folder_name": "Nora Rose Jean Fans",
@@ -136,7 +138,15 @@
       "facebook_title": "",
       "facebook_format": "auto",
       "facebook_initialized": false,
-      "video_stats_checked_at": "2026-10-20T20:06:58.648283+00:00"
+      "video_stats_checked_at": "2026-10-20T20:06:58.648283+00:00",
+      "schedule_deployed": true,
+      "schedule_mode": "smart",
+      "schedule_timezone": "America/Los_Angeles",
+      "schedule_windows": "12:00-14:00,18:00-21:00",
+      "schedule_usage": {
+        "date": "2026-10-20",
+        "count": 0
+      }
     },
     "12ca90b37f29f452": {
       "id": "12ca90b37f29f452",
@@ -617,8 +627,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "0a543e73dbbdf2ed7057d4b01ce4baeb2e53f8bb",
-    "saved_at": "2026-10-20T20:08:22.245839+00:00"
+    "head": "febc2cf1e218966fb16b9a9afaf4dccd60cbee67",
+    "saved_at": "2026-10-20T20:09:14.262842+00:00"
   },
   "last_sync": "2026-10-20T20:07:02.399194+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
@@ -857,5 +867,12 @@
         }
       ]
     }
-  }
+  },
+  "meta_apps": {
+    "1819250915866654": {
+      "app_id": "1819250915866654",
+      "label": "DriveCast Meta app"
+    }
+  },
+  "active_meta_app_id": "1819250915866654"
 }
