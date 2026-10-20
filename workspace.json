@@ -383,7 +383,7 @@
       "repo_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans",
       "facebook_initialized": false,
       "deployed": true,
-      "worker_version": 3,
+      "worker_version": 4,
       "test_passed": false,
       "credential_status": "YouTube connection valid",
       "actual_privacy": "public",
@@ -394,7 +394,11 @@
       "schedule_windows": "12:00-14:00,18:00-21:00",
       "schedule_usage": {
         "date": "2026-10-20",
-        "count": 2
+        "count": 2,
+        "reservations": [
+          "2026-10-20T09:51:10.695828+00:00",
+          "2026-10-20T09:51:05.722361+00:00"
+        ]
       }
     },
     "d15e5f6a822aa226": {
@@ -636,8 +640,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "c4bb107e621c0f9e81ff4d7dae58dafa5597c0c4",
-    "saved_at": "2026-10-20T20:30:08.828627+00:00"
+    "head": "e9c81effcbc91381cf3b565c649f5efeb471601f",
+    "saved_at": "2026-10-20T20:38:02.426031+00:00"
   },
   "last_sync": "2026-10-20T20:07:02.399194+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
