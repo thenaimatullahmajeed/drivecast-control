@@ -385,8 +385,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "c23886b1546ffc20f65552b1f7b5f44087355c2e",
-    "saved_at": "2026-10-20T13:28:08.057019+00:00"
+    "head": "53c97b499bf62e16dd7306f4e6d5b1408fb4dd94",
+    "saved_at": "2026-10-20T13:30:18.294259+00:00"
   },
   "last_sync": "2026-10-20T13:14:22.277869+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
@@ -411,5 +411,25 @@
     "connected_instagram": 1,
     "status": "Connected",
     "notice": "Pages and linked Instagram access verified."
+  },
+  "draft": {
+    "id": "",
+    "name": "",
+    "source_type": "instagram",
+    "folder_id": "",
+    "drive_connection": "",
+    "instagram_username": "",
+    "meta_connection": "meta:17841448175023222",
+    "source_since": "",
+    "youtube_connection": "youtube:83dc128557d8ba06",
+    "requested_channel_name": "Cassandra Evans",
+    "channel_name_confirmed": false,
+    "facebook_connection": "",
+    "facebook_format": "auto",
+    "github_connection": "gh:thenaimatullahmajeed",
+    "repo_name": "",
+    "check_minutes": 60,
+    "max_uploads_per_day": 2,
+    "step": 5
   }
 }
