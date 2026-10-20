@@ -8,7 +8,7 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-20T11:59:20.658125+00:00",
+      "checked_at": "2026-10-20T13:13:47.860473+00:00",
       "notice": "Connection test passed."
     },
     "youtube:94004255334e2f6b": {
@@ -23,7 +23,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "30"
       },
-      "checked_at": "2026-10-20T11:59:23.013372+00:00",
+      "checked_at": "2026-10-20T13:13:50.998444+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -35,8 +35,8 @@
       "page_id": "1291106734095763",
       "status": "Connected",
       "can_publish": true,
-      "checked_at": "2026-10-20T12:56:37.686630+00:00",
-      "notice": "Verified Page identity. Publishing permissions granted; insights/app review still depend on access."
+      "checked_at": "2026-10-20T13:13:51.677815+00:00",
+      "notice": "Connection test passed."
     },
     "meta:17841448175023222": {
       "id": "meta:17841448175023222",
@@ -44,8 +44,8 @@
       "label": "scholarshippost",
       "ig_user_id": "17841448175023222",
       "status": "Connected",
-      "checked_at": "2026-10-20T12:56:38.403051+00:00",
-      "notice": "Facebook Login token verified. Expiry depends on token type; renew/reconnect when required."
+      "checked_at": "2026-10-20T13:13:52.340689+00:00",
+      "notice": "Connection test passed."
     },
     "youtube:d1f103c41efd3b5e": {
       "id": "youtube:d1f103c41efd3b5e",
@@ -55,11 +55,11 @@
       "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
       "stats": {
         "viewCount": "0",
-        "subscriberCount": "0",
+        "subscriberCount": "1",
         "hiddenSubscriberCount": false,
         "videoCount": "1"
       },
-      "checked_at": "2026-10-20T11:59:26.493479+00:00",
+      "checked_at": "2026-10-20T13:13:54.738943+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -76,8 +76,8 @@
         "hiddenSubscriberCount": false,
         "videoCount": "31"
       },
-      "checked_at": "2026-10-20T12:51:54.957224+00:00",
-      "notice": "Google access verified.",
+      "checked_at": "2026-10-20T13:13:57.204474+00:00",
+      "notice": "Connection test passed.",
       "requested_name": "Cassandra Evans",
       "project_id": "drivecast-511818"
     }
@@ -122,8 +122,8 @@
         "viewCount": "0",
         "subscriberCount": "0",
         "hiddenSubscriberCount": false,
-        "videoCount": "0",
-        "checked_at": "2026-10-20T10:10:05.526438+00:00"
+        "videoCount": "1",
+        "checked_at": "2026-10-20T12:02:15.461895+00:00"
       },
       "source_stats": {},
       "credential_status": "YouTube connection valid",
@@ -136,7 +136,7 @@
       "facebook_title": "",
       "facebook_format": "auto",
       "facebook_initialized": false,
-      "video_stats_checked_at": "2026-10-20T11:59:52.737369+00:00"
+      "video_stats_checked_at": "2026-10-20T13:14:20.083608+00:00"
     },
     "12ca90b37f29f452": {
       "id": "12ca90b37f29f452",
@@ -156,11 +156,11 @@
         "subscriberCount": "143",
         "hiddenSubscriberCount": false,
         "videoCount": "30",
-        "checked_at": "2026-10-20T11:59:23.013372+00:00"
+        "checked_at": "2026-10-20T13:13:50.998444+00:00"
       },
       "verified": true,
-      "source_verified": false,
-      "notice": "Meta API rejected request (HTTP 500, code 1). Check permissions, Professional account type, Page link and App Review. No upload started.",
+      "source_verified": true,
+      "notice": "Available connections, channel stats, source and GitHub records updated.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -177,11 +177,11 @@
         "username": "jesskbacon",
         "name": "Jess Bacon",
         "media_count": 1562,
-        "followers_count": 205682,
+        "followers_count": 205666,
         "video_count": 46,
         "available": 10,
         "blocked": 36,
-        "checked_at": "2026-10-20T11:41:02.636107+00:00",
+        "checked_at": "2026-10-20T13:14:13.666629+00:00",
         "preview": [
           {
             "id": "18112882004318198",
@@ -376,7 +376,7 @@
       "test_passed": false,
       "credential_status": "YouTube connection valid",
       "actual_privacy": "public",
-      "video_stats_checked_at": "2026-10-20T11:59:55.211416+00:00"
+      "video_stats_checked_at": "2026-10-20T13:14:22.277828+00:00"
     }
   },
   "remote": {
@@ -385,12 +385,12 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "39a33f9abb1f7a02ef6671d859046fb24df755b7",
-    "saved_at": "2026-10-20T12:53:28.264474+00:00"
+    "head": "2ec7d87e1f05f4259507fc39b402dea286e4b023",
+    "saved_at": "2026-10-20T12:56:50.126892+00:00"
   },
-  "last_sync": "2026-10-20T11:59:55.211454+00:00",
-  "notice": "Sync finished. Needs attention: Jess Bacon Fans",
-  "last_stats_sync": "2026-10-20T11:59:55.211437+00:00",
+  "last_sync": "2026-10-20T13:14:22.277869+00:00",
+  "notice": "Sync finished. Connections, video/channel stats and records checked.",
+  "last_stats_sync": "2026-10-20T13:14:22.277853+00:00",
   "meta_diagnostics": {
     "account_name": "Candice Cromwell",
     "account_id": "122243352776282445",
