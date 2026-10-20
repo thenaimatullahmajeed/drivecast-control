@@ -104,7 +104,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "3"
       },
-      "checked_at": "2026-10-20T21:56:21.055016+00:00",
+      "checked_at": "2026-10-20T21:57:28.611288+00:00",
       "notice": "Google access verified.",
       "requested_name": "Michelle juliet Nayla Fans",
       "project_id": "drivecast-511818"
@@ -719,7 +719,7 @@
       },
       "verified": true,
       "source_verified": true,
-      "notice": "Read-only dry run requested. Review it, then Enable Public publishing; private test is optional.",
+      "notice": "First Public upload check queued. Automatic checks continue at the configured interval.",
       "instagram_username": "michellejulietnaylaa",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -743,7 +743,7 @@
         "video_count": 83,
         "available": 57,
         "blocked": 26,
-        "checked_at": "2026-10-20T21:56:27.474113+00:00",
+        "checked_at": "2026-10-20T21:57:33.628850+00:00",
         "preview": [
           {
             "id": "18099705833057795",
@@ -927,8 +927,8 @@
           }
         ]
       },
-      "status": "Deployed — paused",
-      "enabled": false,
+      "status": "Enabled",
+      "enabled": true,
       "repo_id": 1427604086,
       "branch": "main",
       "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
@@ -945,8 +945,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "f05cf43217aeafc0771e8ca0f89cf938726fd427",
-    "saved_at": "2026-10-20T21:56:32.486111+00:00"
+    "head": "dc0637e81beb20154205cab3b1b0856d29010bf0",
+    "saved_at": "2026-10-20T21:57:19.364193+00:00"
   },
   "last_sync": "2026-10-20T21:50:33.054313+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
