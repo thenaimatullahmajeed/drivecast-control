@@ -8,7 +8,7 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-20T13:13:47.860473+00:00",
+      "checked_at": "2026-10-20T18:36:12.542786+00:00",
       "notice": "Connection test passed."
     },
     "youtube:94004255334e2f6b": {
@@ -19,11 +19,11 @@
       "channel_id": "UCAIYNUcWKkJsIr4QXR1twpQ",
       "stats": {
         "viewCount": "49906",
-        "subscriberCount": "143",
+        "subscriberCount": "144",
         "hiddenSubscriberCount": false,
         "videoCount": "30"
       },
-      "checked_at": "2026-10-20T13:13:50.998444+00:00",
+      "checked_at": "2026-10-20T18:36:14.593393+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -35,7 +35,7 @@
       "page_id": "1291106734095763",
       "status": "Connected",
       "can_publish": true,
-      "checked_at": "2026-10-20T13:13:51.677815+00:00",
+      "checked_at": "2026-10-20T18:36:15.192223+00:00",
       "notice": "Connection test passed."
     },
     "meta:17841448175023222": {
@@ -44,7 +44,7 @@
       "label": "scholarshippost",
       "ig_user_id": "17841448175023222",
       "status": "Connected",
-      "checked_at": "2026-10-20T13:13:52.340689+00:00",
+      "checked_at": "2026-10-20T18:36:16.003837+00:00",
       "notice": "Connection test passed."
     },
     "youtube:d1f103c41efd3b5e": {
@@ -59,7 +59,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "1"
       },
-      "checked_at": "2026-10-20T13:13:54.738943+00:00",
+      "checked_at": "2026-10-20T18:36:17.819411+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
@@ -76,8 +76,8 @@
         "hiddenSubscriberCount": false,
         "videoCount": "31"
       },
-      "checked_at": "2026-10-20T13:34:15.885149+00:00",
-      "notice": "Google access verified.",
+      "checked_at": "2026-10-20T18:36:19.431997+00:00",
+      "notice": "Connection test passed.",
       "requested_name": "Cassandra Evans",
       "project_id": "drivecast-511818"
     }
@@ -123,7 +123,7 @@
         "subscriberCount": "0",
         "hiddenSubscriberCount": false,
         "videoCount": "1",
-        "checked_at": "2026-10-20T12:02:15.461895+00:00"
+        "checked_at": "2026-10-20T17:29:10.633961+00:00"
       },
       "source_stats": {},
       "credential_status": "YouTube connection valid",
@@ -136,7 +136,7 @@
       "facebook_title": "",
       "facebook_format": "auto",
       "facebook_initialized": false,
-      "video_stats_checked_at": "2026-10-20T13:14:20.083608+00:00"
+      "video_stats_checked_at": "2026-10-20T18:36:51.026392+00:00"
     },
     "12ca90b37f29f452": {
       "id": "12ca90b37f29f452",
@@ -153,10 +153,10 @@
       "source_since": "",
       "stats": {
         "viewCount": "49906",
-        "subscriberCount": "143",
+        "subscriberCount": "144",
         "hiddenSubscriberCount": false,
         "videoCount": "30",
-        "checked_at": "2026-10-20T13:13:50.998444+00:00"
+        "checked_at": "2026-10-20T17:30:39.377498+00:00"
       },
       "verified": true,
       "source_verified": true,
@@ -176,19 +176,13 @@
         "id": "17841401814310813",
         "username": "jesskbacon",
         "name": "Jess Bacon",
-        "media_count": 1562,
-        "followers_count": 205666,
+        "media_count": 1563,
+        "followers_count": 205660,
         "video_count": 46,
-        "available": 10,
-        "blocked": 36,
-        "checked_at": "2026-10-20T13:14:13.666629+00:00",
+        "available": 11,
+        "blocked": 35,
+        "checked_at": "2026-10-20T18:36:36.007387+00:00",
         "preview": [
-          {
-            "id": "18112882004318198",
-            "title": "If you don’t like your clothes enough to want to rewear them then maybe you shouldn’t buy them🤷‍♀️ a",
-            "timestamp": "2026-08-11T15:29:39+0000",
-            "available": false
-          },
           {
             "id": "18017023520870579",
             "title": "Project love London again is off to a good start😎",
@@ -362,6 +356,12 @@
             "title": "They say a picture tells a thousand words but this video says so much more😂 (wait till the final fac",
             "timestamp": "2026-09-17T16:30:26+0000",
             "available": false
+          },
+          {
+            "id": "18100387643574876",
+            "title": "It felt very on brand that while I was worrying about not looking perfect (from the immense Pinteres",
+            "timestamp": "2026-09-18T16:21:47+0000",
+            "available": false
           }
         ]
       },
@@ -376,7 +376,7 @@
       "test_passed": false,
       "credential_status": "YouTube connection valid",
       "actual_privacy": "public",
-      "video_stats_checked_at": "2026-10-20T13:14:22.277828+00:00"
+      "video_stats_checked_at": "2026-10-20T18:36:52.773843+00:00"
     },
     "d15e5f6a822aa226": {
       "id": "d15e5f6a822aa226",
@@ -395,11 +395,12 @@
         "viewCount": "230218",
         "subscriberCount": "535",
         "hiddenSubscriberCount": false,
-        "videoCount": "31"
+        "videoCount": "31",
+        "checked_at": "2026-10-20T18:36:19.431997+00:00"
       },
       "verified": true,
       "source_verified": true,
-      "notice": "Source and exact destination verified. Normal publishing is Public; private test is optional.",
+      "notice": "Available connections, channel stats, source and GitHub records updated.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -415,19 +416,13 @@
         "id": "17841401814310813",
         "username": "jesskbacon",
         "name": "Jess Bacon",
-        "media_count": 1562,
-        "followers_count": 205666,
+        "media_count": 1563,
+        "followers_count": 205660,
         "video_count": 46,
-        "available": 10,
-        "blocked": 36,
-        "checked_at": "2026-10-20T13:34:22.622314+00:00",
+        "available": 11,
+        "blocked": 35,
+        "checked_at": "2026-10-20T18:36:49.282802+00:00",
         "preview": [
-          {
-            "id": "18112882004318198",
-            "title": "If you don’t like your clothes enough to want to rewear them then maybe you shouldn’t buy them🤷‍♀️ a",
-            "timestamp": "2026-08-11T15:29:39+0000",
-            "available": false
-          },
           {
             "id": "18017023520870579",
             "title": "Project love London again is off to a good start😎",
@@ -601,11 +596,19 @@
             "title": "They say a picture tells a thousand words but this video says so much more😂 (wait till the final fac",
             "timestamp": "2026-09-17T16:30:26+0000",
             "available": false
+          },
+          {
+            "id": "18100387643574876",
+            "title": "It felt very on brand that while I was worrying about not looking perfect (from the immense Pinteres",
+            "timestamp": "2026-09-18T16:21:47+0000",
+            "available": false
           }
         ]
       },
       "status": "Ready",
-      "enabled": false
+      "enabled": false,
+      "credential_status": "YouTube connection valid",
+      "video_stats_checked_at": "2026-10-20T18:36:53.601775+00:00"
     }
   },
   "remote": {
@@ -614,12 +617,12 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "80183cc9e71b6dc6d7a4b06286acc881b1d50e4e",
-    "saved_at": "2026-10-20T13:34:05.949306+00:00"
+    "head": "bf9cf0cbedfc5349c0eaba9904bba6c29aae7f18",
+    "saved_at": "2026-10-20T13:34:28.017073+00:00"
   },
-  "last_sync": "2026-10-20T13:14:22.277869+00:00",
+  "last_sync": "2026-10-20T18:36:53.601830+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
-  "last_stats_sync": "2026-10-20T13:14:22.277853+00:00",
+  "last_stats_sync": "2026-10-20T18:36:53.601802+00:00",
   "meta_diagnostics": {
     "account_name": "Candice Cromwell",
     "account_id": "122243352776282445",
