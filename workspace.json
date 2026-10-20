@@ -35,7 +35,7 @@
       "page_id": "1291106734095763",
       "status": "Connected",
       "can_publish": true,
-      "checked_at": "2026-10-20T12:53:12.506433+00:00",
+      "checked_at": "2026-10-20T12:56:37.686630+00:00",
       "notice": "Verified Page identity. Publishing permissions granted; insights/app review still depend on access."
     },
     "meta:17841448175023222": {
@@ -44,7 +44,7 @@
       "label": "scholarshippost",
       "ig_user_id": "17841448175023222",
       "status": "Connected",
-      "checked_at": "2026-10-20T12:53:13.167949+00:00",
+      "checked_at": "2026-10-20T12:56:38.403051+00:00",
       "notice": "Facebook Login token verified. Expiry depends on token type; renew/reconnect when required."
     },
     "youtube:d1f103c41efd3b5e": {
@@ -385,8 +385,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "bf2f1979744fb6dde25adda3ad924aef8150e211",
-    "saved_at": "2026-10-20T12:52:00.456964+00:00"
+    "head": "39a33f9abb1f7a02ef6671d859046fb24df755b7",
+    "saved_at": "2026-10-20T12:53:28.264474+00:00"
   },
   "last_sync": "2026-10-20T11:59:55.211454+00:00",
   "notice": "Sync finished. Needs attention: Jess Bacon Fans",
@@ -404,7 +404,7 @@
       "public_profile",
       "read_insights"
     ],
-    "checked_at": "2026-10-20T12:53:10.977906+00:00",
+    "checked_at": "2026-10-20T12:56:36.331223+00:00",
     "pages_returned": 1,
     "pages_with_tokens": 1,
     "connected_pages": 1,
