@@ -63,6 +63,23 @@
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818"
+    },
+    "youtube:83dc128557d8ba06": {
+      "id": "youtube:83dc128557d8ba06",
+      "kind": "youtube",
+      "label": "Cassandra Evans",
+      "status": "Connected",
+      "channel_id": "UC00v33mwUK8QMjkM8Pq7l1g",
+      "stats": {
+        "viewCount": "230218",
+        "subscriberCount": "535",
+        "hiddenSubscriberCount": false,
+        "videoCount": "31"
+      },
+      "checked_at": "2026-10-20T12:51:54.957224+00:00",
+      "notice": "Google access verified.",
+      "requested_name": "Cassandra Evans",
+      "project_id": "drivecast-511818"
     }
   },
   "clients": {
@@ -368,8 +385,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "83696ea5501309b60d8264f1eb6d290a8396a620",
-    "saved_at": "2026-10-20T11:41:18.192759+00:00"
+    "head": "2f597159c0b46a4952cb41db47225964d9dc75af",
+    "saved_at": "2026-10-20T12:00:01.061679+00:00"
   },
   "last_sync": "2026-10-20T11:59:55.211454+00:00",
   "notice": "Sync finished. Needs attention: Jess Bacon Fans",
