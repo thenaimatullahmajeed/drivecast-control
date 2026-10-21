@@ -1009,8 +1009,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "dadd3e8623281c16913999fec6c76232678129f4",
-    "saved_at": "2026-10-21T04:54:05.918679+00:00"
+    "head": "82feaf96e12dfaa170e3d28ca4e047095d2f95c0",
+    "saved_at": "2026-10-21T04:57:08.603549+00:00"
   },
   "last_sync": "2026-10-21T04:57:03.205288+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
@@ -1044,5 +1044,12 @@
       "verified_at": "2026-10-20T21:58:56.364651+00:00",
       "finished_at": "2026-10-20T21:58:58.748480+00:00"
     }
-  ]
+  ],
+  "automation": {
+    "armed": true,
+    "auto_failover": true,
+    "auto_protect": true,
+    "failover_threshold": 95,
+    "pause_failures": 3
+  }
 }
