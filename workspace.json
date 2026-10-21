@@ -124,11 +124,11 @@
       "label": "candicecrowmwell-cloud",
       "login": "candicecrowmwell-cloud",
       "status": "Account suspended",
-      "checked_at": "2026-10-21T09:55:54.903422+00:00",
+      "checked_at": "2026-10-21T10:01:01.884146+00:00",
       "notice": "GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry.",
       "avatar": "/avatars/e5160be777503f50475ab3301efb31be7b6a71135dc8ad62bfac403d98d46853.img",
       "health": {
-        "checked_at": "2026-10-21T09:55:53.922455+00:00",
+        "checked_at": "2026-10-21T10:00:57.307551+00:00",
         "token_valid": false,
         "minutes": null,
         "usage_percent": null,
@@ -1029,8 +1029,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "1fbe3fbcfc33aaaa57efdae347ff36715f3015d0",
-    "saved_at": "2026-10-21T09:48:51.484173+00:00"
+    "head": "3c23d1a48a051b6c647e5888e02fff83cb1396df",
+    "saved_at": "2026-10-21T09:56:02.975883+00:00"
   },
   "last_sync": "2026-10-21T09:41:00.516521+00:00",
   "notice": "Sync finished. Needs attention: candicecrowmwell-cloud, Michelle juliet Nayla Fans",
