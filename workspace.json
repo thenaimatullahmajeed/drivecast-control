@@ -9,7 +9,8 @@
       "login": "thenaimatullahmajeed",
       "status": "Connected",
       "checked_at": "2026-10-20T23:01:57.227968+00:00",
-      "notice": "Connection test passed."
+      "notice": "Connection test passed.",
+      "avatar": "/avatars/59c5f7b8e56a64e88938078a0874c64b686326ad5a7e457a3587fe2ce165699f.img"
     },
     "youtube:94004255334e2f6b": {
       "id": "youtube:94004255334e2f6b",
@@ -26,7 +27,8 @@
       "checked_at": "2026-10-20T23:01:59.733794+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
-      "project_id": "drivecast-511818"
+      "project_id": "drivecast-511818",
+      "avatar": "/avatars/13384aa7b7ada43e6c4f921d082a56b6a7d26e81eea8dc277d6e66e3d9ffb2f8.img"
     },
     "facebook:1291106734095763": {
       "id": "facebook:1291106734095763",
@@ -37,7 +39,8 @@
       "can_publish": true,
       "checked_at": "2026-10-20T23:02:00.196815+00:00",
       "notice": "Connection test passed.",
-      "meta_app_id": "1819250915866654"
+      "meta_app_id": "1819250915866654",
+      "avatar": "/avatars/1a023ccd6bdf88fc743394bd57c2f10a59ed28f869c9c4d0ffbd313f8a2b3f4b.img"
     },
     "meta:17841448175023222": {
       "id": "meta:17841448175023222",
@@ -47,7 +50,8 @@
       "status": "Connected",
       "checked_at": "2026-10-20T23:02:00.632314+00:00",
       "notice": "Connection test passed.",
-      "meta_app_id": "1819250915866654"
+      "meta_app_id": "1819250915866654",
+      "avatar": "/avatars/e60265c6db52f594cf9b2c7befb567d6a4c9cdc7ac7ec7bf48c8e0483939dea4.img"
     },
     "youtube:d1f103c41efd3b5e": {
       "id": "youtube:d1f103c41efd3b5e",
@@ -64,7 +68,8 @@
       "checked_at": "2026-10-20T23:02:02.967142+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
-      "project_id": "drivecast-511818"
+      "project_id": "drivecast-511818",
+      "avatar": "/avatars/ec36cd8b7d6972960c2175eb0edb5b2a42706e9e288fc80ae40c61a1724ecfc6.img"
     },
     "youtube:83dc128557d8ba06": {
       "id": "youtube:83dc128557d8ba06",
@@ -81,7 +86,8 @@
       "checked_at": "2026-10-20T23:02:05.093261+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Cassandra Evans",
-      "project_id": "drivecast-511818"
+      "project_id": "drivecast-511818",
+      "avatar": "/avatars/1525fc122cb9d8d5092e02618e55f1b5772db3987a38a787206a48b6dfd4aa85.img"
     },
     "gh:candicecrowmwell-cloud": {
       "id": "gh:candicecrowmwell-cloud",
@@ -90,7 +96,8 @@
       "login": "candicecrowmwell-cloud",
       "status": "Connected",
       "checked_at": "2026-10-20T23:02:05.681438+00:00",
-      "notice": "Connection test passed."
+      "notice": "Connection test passed.",
+      "avatar": "/avatars/e5160be777503f50475ab3301efb31be7b6a71135dc8ad62bfac403d98d46853.img"
     },
     "youtube:687186aa0b7e44eb": {
       "id": "youtube:687186aa0b7e44eb",
@@ -107,7 +114,8 @@
       "checked_at": "2026-10-20T23:02:07.829665+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Michelle juliet Nayla Fans",
-      "project_id": "drivecast-511818"
+      "project_id": "drivecast-511818",
+      "avatar": "/avatars/35c9d2106b6d645d7c090eb36ce8e87ba08062f7a5a90235f882dec7dba5684e.img"
     }
   },
   "clients": {
@@ -465,7 +473,7 @@
       },
       "verified": true,
       "source_verified": true,
-      "notice": "Available connections, channel stats, source and GitHub records updated.",
+      "notice": "Read-only dry run requested; inspect workflow records.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -965,8 +973,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "36cc628871d931c7908d6a52e68a113192f1b539",
-    "saved_at": "2026-10-20T21:59:03.473165+00:00"
+    "head": "8ac031c0f41311ca70138aa72c4c1a72212b7c4a",
+    "saved_at": "2026-10-20T23:02:55.189811+00:00"
   },
   "last_sync": "2026-10-20T23:02:50.410541+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
