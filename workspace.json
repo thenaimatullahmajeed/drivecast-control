@@ -8,7 +8,7 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-21T09:38:02.320547+00:00",
+      "checked_at": "2026-10-21T17:13:06.885599+00:00",
       "notice": "Connection test passed.",
       "avatar": "/avatars/59c5f7b8e56a64e88938078a0874c64b686326ad5a7e457a3587fe2ce165699f.img",
       "health": {
@@ -35,7 +35,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "30"
       },
-      "checked_at": "2026-10-21T09:38:12.282733+00:00",
+      "checked_at": "2026-10-21T17:13:13.855504+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818",
@@ -43,7 +43,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T09:48:20.592702+00:00",
+      "google_email_last_attempt_at": "2026-10-21T17:13:10.979330+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
@@ -54,7 +54,7 @@
       "page_id": "1291106734095763",
       "status": "Connected",
       "can_publish": true,
-      "checked_at": "2026-10-21T09:38:13.911711+00:00",
+      "checked_at": "2026-10-21T17:13:15.124427+00:00",
       "notice": "Connection test passed.",
       "meta_app_id": "1819250915866654",
       "avatar": "/avatars/1a023ccd6bdf88fc743394bd57c2f10a59ed28f869c9c4d0ffbd313f8a2b3f4b.img"
@@ -65,7 +65,7 @@
       "label": "scholarshippost",
       "ig_user_id": "17841448175023222",
       "status": "Connected",
-      "checked_at": "2026-10-21T09:38:14.988444+00:00",
+      "checked_at": "2026-10-21T17:13:16.163350+00:00",
       "notice": "Connection test passed.",
       "meta_app_id": "1819250915866654",
       "avatar": "/avatars/e60265c6db52f594cf9b2c7befb567d6a4c9cdc7ac7ec7bf48c8e0483939dea4.img"
@@ -82,7 +82,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "1"
       },
-      "checked_at": "2026-10-21T09:38:24.126216+00:00",
+      "checked_at": "2026-10-21T17:13:22.938924+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818",
@@ -90,7 +90,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T09:48:26.328000+00:00",
+      "google_email_last_attempt_at": "2026-10-21T17:13:20.445728+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
@@ -106,7 +106,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "31"
       },
-      "checked_at": "2026-10-21T09:38:28.536273+00:00",
+      "checked_at": "2026-10-21T17:13:29.014803+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Cassandra Evans",
       "project_id": "drivecast-511818",
@@ -114,7 +114,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T09:48:30.799796+00:00",
+      "google_email_last_attempt_at": "2026-10-21T17:13:26.508668+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
@@ -124,19 +124,15 @@
       "label": "candicecrowmwell-cloud",
       "login": "candicecrowmwell-cloud",
       "status": "Account suspended",
-      "checked_at": "2026-10-21T10:01:21.799698+00:00",
+      "checked_at": "2026-10-21T17:13:29.505556+00:00",
       "notice": "GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry.",
       "avatar": "/avatars/e5160be777503f50475ab3301efb31be7b6a71135dc8ad62bfac403d98d46853.img",
       "health": {
-        "checked_at": "2026-10-21T10:01:21.049720+00:00",
+        "checked_at": "2026-10-21T17:13:29.505655+00:00",
         "token_valid": false,
-        "minutes": null,
-        "usage_percent": null,
-        "rate_remaining": null,
-        "workflow_failures": null,
         "issue": "suspended",
-        "notice": "GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry.",
-        "quota_issue": false
+        "quota_issue": false,
+        "notice": "GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry."
       }
     },
     "youtube:687186aa0b7e44eb": {
@@ -151,7 +147,7 @@
         "hiddenSubscriberCount": false,
         "videoCount": "4"
       },
-      "checked_at": "2026-10-21T09:38:34.393731+00:00",
+      "checked_at": "2026-10-21T17:13:35.310628+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Michelle juliet Nayla Fans",
       "project_id": "drivecast-511818",
@@ -159,7 +155,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T09:48:39.526035+00:00",
+      "google_email_last_attempt_at": "2026-10-21T17:13:32.773916+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     }
@@ -205,7 +201,7 @@
         "subscriberCount": "1",
         "hiddenSubscriberCount": false,
         "videoCount": "1",
-        "checked_at": "2026-10-21T05:14:06.756047+00:00"
+        "checked_at": "2026-10-21T12:17:18.880435+00:00"
       },
       "source_stats": {},
       "credential_status": "YouTube connection valid",
@@ -218,7 +214,7 @@
       "facebook_title": "",
       "facebook_format": "auto",
       "facebook_initialized": false,
-      "video_stats_checked_at": "2026-10-21T09:40:54.607833+00:00",
+      "video_stats_checked_at": "2026-10-21T17:14:51.736159+00:00",
       "schedule_deployed": true,
       "schedule_mode": "smart",
       "schedule_timezone": "America/Los_Angeles",
@@ -229,12 +225,12 @@
         "reservations": []
       },
       "last_run": {
-        "id": 39552418372,
+        "id": 39598374492,
         "status": "completed",
         "conclusion": "success",
-        "created_at": "2026-10-21T05:56:30Z",
-        "updated_at": "2026-10-21T05:56:43Z",
-        "html_url": "https://github.com/thenaimatullahmajeed/youtube-nora-rose-jean-fans/actions/runs/39552418372"
+        "created_at": "2026-10-21T12:17:06Z",
+        "updated_at": "2026-10-21T12:17:24Z",
+        "html_url": "https://github.com/thenaimatullahmajeed/youtube-nora-rose-jean-fans/actions/runs/39598374492"
       }
     },
     "12ca90b37f29f452": {
@@ -255,7 +251,7 @@
         "subscriberCount": "144",
         "hiddenSubscriberCount": false,
         "videoCount": "30",
-        "checked_at": "2026-10-21T05:16:49.874148+00:00"
+        "checked_at": "2026-10-21T12:21:13.718491+00:00"
       },
       "verified": true,
       "source_verified": true,
@@ -275,19 +271,13 @@
         "id": "17841401814310813",
         "username": "jesskbacon",
         "name": "Jess Bacon",
-        "media_count": 1563,
-        "followers_count": 205646,
+        "media_count": 1564,
+        "followers_count": 205599,
         "video_count": 46,
         "available": 11,
         "blocked": 35,
-        "checked_at": "2026-10-21T09:40:22.457868+00:00",
+        "checked_at": "2026-10-21T17:14:05.045304+00:00",
         "preview": [
-          {
-            "id": "18017023520870579",
-            "title": "Project love London again is off to a good start😎",
-            "timestamp": "2026-08-12T16:57:16+0000",
-            "available": false
-          },
           {
             "id": "18006236093974509",
             "title": "ad I hated shopping for denim before I gained weight so you can imagine how much I enjoy it now I’m ",
@@ -461,6 +451,12 @@
             "title": "It felt very on brand that while I was worrying about not looking perfect (from the immense Pinteres",
             "timestamp": "2026-09-18T16:21:47+0000",
             "available": false
+          },
+          {
+            "id": "18381330037300079",
+            "title": "To anyone in the dating trenches this is your reminder that you truly never know where the next date",
+            "timestamp": "2026-09-20T17:08:25+0000",
+            "available": false
           }
         ]
       },
@@ -475,7 +471,7 @@
       "test_passed": false,
       "credential_status": "YouTube connection valid",
       "actual_privacy": "public",
-      "video_stats_checked_at": "2026-10-21T09:40:56.517929+00:00",
+      "video_stats_checked_at": "2026-10-21T17:14:53.712763+00:00",
       "schedule_deployed": true,
       "schedule_mode": "smart",
       "schedule_timezone": "America/Los_Angeles",
@@ -486,12 +482,12 @@
         "reservations": []
       },
       "last_run": {
-        "id": 39552135431,
+        "id": 39598874861,
         "status": "completed",
         "conclusion": "success",
-        "created_at": "2026-10-21T05:53:32Z",
-        "updated_at": "2026-10-21T05:53:49Z",
-        "html_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans/actions/runs/39552135431"
+        "created_at": "2026-10-21T12:20:56Z",
+        "updated_at": "2026-10-21T12:21:20Z",
+        "html_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans/actions/runs/39598874861"
       },
       "source_avatar": "/avatars/700fea1f9289b6e271d0f4a4c598f314d424308a6929fb06f98a325b518e02a3.img"
     },
@@ -513,7 +509,7 @@
         "subscriberCount": "535",
         "hiddenSubscriberCount": false,
         "videoCount": "31",
-        "checked_at": "2026-10-21T05:13:30.511039+00:00"
+        "checked_at": "2026-10-21T12:16:30.261385+00:00"
       },
       "verified": true,
       "source_verified": true,
@@ -533,19 +529,13 @@
         "id": "17841401814310813",
         "username": "jesskbacon",
         "name": "Jess Bacon",
-        "media_count": 1563,
-        "followers_count": 205646,
+        "media_count": 1564,
+        "followers_count": 205599,
         "video_count": 46,
         "available": 11,
         "blocked": 35,
-        "checked_at": "2026-10-21T09:40:36.053427+00:00",
+        "checked_at": "2026-10-21T17:14:28.566243+00:00",
         "preview": [
-          {
-            "id": "18017023520870579",
-            "title": "Project love London again is off to a good start😎",
-            "timestamp": "2026-08-12T16:57:16+0000",
-            "available": false
-          },
           {
             "id": "18006236093974509",
             "title": "ad I hated shopping for denim before I gained weight so you can imagine how much I enjoy it now I’m ",
@@ -719,13 +709,19 @@
             "title": "It felt very on brand that while I was worrying about not looking perfect (from the immense Pinteres",
             "timestamp": "2026-09-18T16:21:47+0000",
             "available": false
+          },
+          {
+            "id": "18381330037300079",
+            "title": "To anyone in the dating trenches this is your reminder that you truly never know where the next date",
+            "timestamp": "2026-09-20T17:08:25+0000",
+            "available": false
           }
         ]
       },
       "status": "Enabled",
       "enabled": true,
       "credential_status": "YouTube connection valid",
-      "video_stats_checked_at": "2026-10-21T09:40:58.044533+00:00",
+      "video_stats_checked_at": "2026-10-21T17:14:54.539037+00:00",
       "schedule_mode": "smart",
       "repo_id": 1427574571,
       "branch": "main",
@@ -737,12 +733,12 @@
       "test_passed": false,
       "actual_privacy": "public",
       "last_run": {
-        "id": 39552402422,
+        "id": 39598272147,
         "status": "completed",
         "conclusion": "success",
-        "created_at": "2026-10-21T05:56:19Z",
-        "updated_at": "2026-10-21T05:56:41Z",
-        "html_url": "https://github.com/thenaimatullahmajeed/Cassandra_Evans/actions/runs/39552402422"
+        "created_at": "2026-10-21T12:16:18Z",
+        "updated_at": "2026-10-21T12:16:34Z",
+        "html_url": "https://github.com/thenaimatullahmajeed/Cassandra_Evans/actions/runs/39598272147"
       },
       "schedule_usage": {
         "date": "2026-10-21",
@@ -769,11 +765,11 @@
         "subscriberCount": "7",
         "hiddenSubscriberCount": false,
         "videoCount": "4",
-        "checked_at": "2026-10-21T09:38:34.393731+00:00"
+        "checked_at": "2026-10-21T17:13:35.310628+00:00"
       },
       "verified": true,
       "source_verified": true,
-      "notice": "GitHub request failed (HTTP 403). Check connection/permissions; no automatic upload retry.",
+      "notice": "GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry.",
       "instagram_username": "michellejulietnaylaa",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -793,11 +789,11 @@
         "username": "michellejulietnaylaa",
         "name": "Michelle Nayla",
         "media_count": 1766,
-        "followers_count": 1083957,
+        "followers_count": 1083841,
         "video_count": 83,
         "available": 57,
         "blocked": 26,
-        "checked_at": "2026-10-21T09:40:51.513847+00:00",
+        "checked_at": "2026-10-21T17:14:48.553737+00:00",
         "preview": [
           {
             "id": "18099705833057795",
@@ -1011,7 +1007,7 @@
           "2026-10-21T03:13:57.518773+00:00"
         ]
       },
-      "video_stats_checked_at": "2026-10-21T09:41:00.516444+00:00",
+      "video_stats_checked_at": "2026-10-21T17:14:56.343963+00:00",
       "source_avatar": "/avatars/04359d069f0086fdf1ea60d88819de89f805925ccb9fdc28eeab113299048aa0.img",
       "last_run": {
         "id": 39549195348,
@@ -1029,12 +1025,12 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "8b94e93859a97ec27bb924753357e29850f8a97c",
-    "saved_at": "2026-10-21T10:01:30.851074+00:00"
+    "head": "1370e307351a2a557ae30c42f54045996c90882b",
+    "saved_at": "2026-10-21T10:15:26.090625+00:00"
   },
-  "last_sync": "2026-10-21T09:41:00.516521+00:00",
+  "last_sync": "2026-10-21T17:14:56.344023+00:00",
   "notice": "Sync finished. Needs attention: candicecrowmwell-cloud, Michelle juliet Nayla Fans",
-  "last_stats_sync": "2026-10-21T09:41:00.516481+00:00",
+  "last_stats_sync": "2026-10-21T17:14:56.343990+00:00",
   "meta_apps": {
     "1819250915866654": {
       "app_id": "1819250915866654",
