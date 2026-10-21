@@ -1032,8 +1032,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "e9a3de47c039bfc9aa3d0a78d0885ec072ddd9c5",
-    "saved_at": "2026-10-21T05:52:04.304663+00:00"
+    "head": "59c7794de312896a7a0fcf306d6c9e045eb1f889",
+    "saved_at": "2026-10-21T05:52:52.446564+00:00"
   },
   "last_sync": "2026-10-21T05:34:26.064206+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
@@ -1075,5 +1075,24 @@
     "failover_threshold": 95,
     "pause_failures": 3
   },
-  "pool_checked_at": "2026-10-21T05:38:30.109896+00:00"
+  "pool_checked_at": "2026-10-21T05:38:30.109896+00:00",
+  "draft": {
+    "id": "d15e5f6a822aa226",
+    "name": "Cassandra_Evans",
+    "source_type": "instagram",
+    "folder_id": "",
+    "drive_connection": "",
+    "instagram_username": "jesskbacon",
+    "meta_connection": "meta:17841448175023222",
+    "source_since": "",
+    "youtube_connection": "youtube:83dc128557d8ba06",
+    "requested_channel_name": "Cassandra Evans",
+    "facebook_connection": "",
+    "facebook_format": "auto",
+    "github_connection": "gh:thenaimatullahmajeed",
+    "repo_name": "Cassandra_Evans",
+    "check_minutes": 120,
+    "max_uploads_per_day": 2,
+    "schedule_mode": "smart"
+  }
 }
