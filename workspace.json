@@ -1029,8 +1029,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "c9536151f4e9a22b1a5a0511355e3418c590ca7a",
-    "saved_at": "2026-10-21T05:56:49.503835+00:00"
+    "head": "f83d2127ad671c123b4da97e986fe3aee83718dc",
+    "saved_at": "2026-10-21T09:41:07.282781+00:00"
   },
   "last_sync": "2026-10-21T09:41:00.516521+00:00",
   "notice": "Sync finished. Needs attention: candicecrowmwell-cloud, Michelle juliet Nayla Fans",
@@ -1074,22 +1074,24 @@
   },
   "pool_checked_at": "2026-10-21T05:38:30.109896+00:00",
   "draft": {
-    "id": "d15e5f6a822aa226",
-    "name": "Cassandra_Evans",
+    "id": "154a36b0befb3096",
+    "name": "Michelle juliet Nayla Fans",
     "source_type": "instagram",
     "folder_id": "",
     "drive_connection": "",
-    "instagram_username": "jesskbacon",
+    "instagram_username": "michellejulietnaylaa",
     "meta_connection": "meta:17841448175023222",
     "source_since": "",
-    "youtube_connection": "youtube:83dc128557d8ba06",
-    "requested_channel_name": "Cassandra Evans",
+    "youtube_connection": "youtube:687186aa0b7e44eb",
+    "requested_channel_name": "Michelle juliet Nayla Fans",
     "facebook_connection": "",
     "facebook_format": "auto",
-    "github_connection": "gh:thenaimatullahmajeed",
-    "repo_name": "Cassandra_Evans",
-    "check_minutes": 120,
+    "github_connection": "gh:candicecrowmwell-cloud",
+    "repo_name": "youtube-cassandra-evans",
+    "check_minutes": 60,
     "max_uploads_per_day": 2,
-    "schedule_mode": "smart"
+    "schedule_mode": "smart",
+    "schedule_timezone": "America/Los_Angeles",
+    "schedule_windows": "12:00-14:00,18:00-21:00"
   }
 }
