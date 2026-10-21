@@ -8,21 +8,19 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-21T05:32:53.758314+00:00",
+      "checked_at": "2026-10-21T05:38:25.211350+00:00",
       "notice": "Connection test passed.",
       "avatar": "/avatars/59c5f7b8e56a64e88938078a0874c64b686326ad5a7e457a3587fe2ce165699f.img",
       "health": {
-        "checked_at": "2026-10-21T05:31:16.180604+00:00",
+        "checked_at": "2026-10-21T05:38:16.188249+00:00",
         "token_valid": true,
         "minutes": null,
         "usage_percent": null,
-        "rate_remaining": 4969,
-        "workflow_failures": null,
+        "rate_remaining": 4954,
+        "workflow_failures": 0,
         "rate_limit": 5000,
         "rate_reset": 1792561624,
-        "billing_notice": "Unavailable: this token/account cannot read billing usage. No quota estimate is invented.",
-        "notice": "GitHub health could not be verified. Reconnect/check permissions before assigning new channels.",
-        "quota_issue": false
+        "billing_notice": "Unavailable: this token/account cannot read billing usage. No quota estimate is invented."
       }
     },
     "youtube:94004255334e2f6b": {
@@ -117,15 +115,15 @@
       "label": "candicecrowmwell-cloud",
       "login": "candicecrowmwell-cloud",
       "status": "Connected",
-      "checked_at": "2026-10-21T05:33:09.969887+00:00",
+      "checked_at": "2026-10-21T05:38:30.105710+00:00",
       "notice": "Connection test passed.",
       "avatar": "/avatars/e5160be777503f50475ab3301efb31be7b6a71135dc8ad62bfac403d98d46853.img",
       "health": {
-        "checked_at": "2026-10-21T05:32:19.297933+00:00",
+        "checked_at": "2026-10-21T05:38:25.211426+00:00",
         "token_valid": true,
         "minutes": null,
         "usage_percent": null,
-        "rate_remaining": 4992,
+        "rate_remaining": 4986,
         "workflow_failures": 0,
         "rate_limit": 5000,
         "rate_reset": 1792561734,
@@ -1022,8 +1020,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "ed06f298e89f3db268ff0942e2b02f00a641a099",
-    "saved_at": "2026-10-21T05:12:04.517152+00:00"
+    "head": "65721c2d7c6122cd1f637b761bbc05e34e6b6b41",
+    "saved_at": "2026-10-21T05:34:31.722503+00:00"
   },
   "last_sync": "2026-10-21T05:34:26.064206+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
@@ -1059,11 +1057,11 @@
     }
   ],
   "automation": {
-    "armed": true,
+    "armed": false,
     "auto_failover": true,
     "auto_protect": true,
     "failover_threshold": 95,
     "pause_failures": 3
   },
-  "pool_checked_at": "2026-10-21T05:32:29.968162+00:00"
+  "pool_checked_at": "2026-10-21T05:38:30.109896+00:00"
 }
