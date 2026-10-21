@@ -268,7 +268,7 @@
         "video_count": 46,
         "available": 11,
         "blocked": 35,
-        "checked_at": "2026-10-21T05:33:32.706618+00:00",
+        "checked_at": "2026-10-21T05:44:04.478113+00:00",
         "preview": [
           {
             "id": "18017023520870579",
@@ -1020,8 +1020,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "65721c2d7c6122cd1f637b761bbc05e34e6b6b41",
-    "saved_at": "2026-10-21T05:34:31.722503+00:00"
+    "head": "2ec7340c8ea21a93077910283779a20868a43f9e",
+    "saved_at": "2026-10-21T05:41:48.721718+00:00"
   },
   "last_sync": "2026-10-21T05:34:26.064206+00:00",
   "notice": "Sync finished. Connections, video/channel stats and records checked.",
