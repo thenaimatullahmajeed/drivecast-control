@@ -43,7 +43,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T09:38:06.632867+00:00",
+      "google_email_last_attempt_at": "2026-10-21T09:48:20.592702+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
@@ -90,7 +90,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T09:38:21.080741+00:00",
+      "google_email_last_attempt_at": "2026-10-21T09:48:26.328000+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
@@ -114,7 +114,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T09:38:26.085299+00:00",
+      "google_email_last_attempt_at": "2026-10-21T09:48:30.799796+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
@@ -159,7 +159,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T09:38:31.387468+00:00",
+      "google_email_last_attempt_at": "2026-10-21T09:48:39.526035+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     }
@@ -1029,8 +1029,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "cafd6ebe8c4e7f425d332022fe46f3d015543ffd",
-    "saved_at": "2026-10-21T09:43:33.127174+00:00"
+    "head": "27cad0596f41cfeb45be8fbbe9c959d90f014e5a",
+    "saved_at": "2026-10-21T09:46:38.472130+00:00"
   },
   "last_sync": "2026-10-21T09:41:00.516521+00:00",
   "notice": "Sync finished. Needs attention: candicecrowmwell-cloud, Michelle juliet Nayla Fans",
