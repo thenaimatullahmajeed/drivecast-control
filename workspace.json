@@ -1029,8 +1029,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "0809a08dfd1970b7a4465f75f8a34eef36e79ed8",
-    "saved_at": "2026-10-21T09:41:26.993813+00:00"
+    "head": "cafd6ebe8c4e7f425d332022fe46f3d015543ffd",
+    "saved_at": "2026-10-21T09:43:33.127174+00:00"
   },
   "last_sync": "2026-10-21T09:41:00.516521+00:00",
   "notice": "Sync finished. Needs attention: candicecrowmwell-cloud, Michelle juliet Nayla Fans",
@@ -1093,5 +1093,10 @@
     "schedule_mode": "smart",
     "schedule_timezone": "America/Los_Angeles",
     "schedule_windows": "12:00-14:00,18:00-21:00"
+  },
+  "google_app": {
+    "client_id": "937854310935-hmelam4huhf6305inbhoab74a33crjkb.apps.googleusercontent.com",
+    "project_id": "drivecast-511818",
+    "saved_at": "2026-10-21T09:46:25.631222+00:00"
   }
 }
