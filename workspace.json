@@ -8,7 +8,7 @@
       "label": "thenaimatullahmajeed",
       "login": "thenaimatullahmajeed",
       "status": "Connected",
-      "checked_at": "2026-10-21T17:13:06.885599+00:00",
+      "checked_at": "2026-10-22T17:46:58.168999+00:00",
       "notice": "Connection test passed.",
       "avatar": "/avatars/59c5f7b8e56a64e88938078a0874c64b686326ad5a7e457a3587fe2ce165699f.img",
       "health": {
@@ -30,12 +30,12 @@
       "status": "Connected",
       "channel_id": "UCAIYNUcWKkJsIr4QXR1twpQ",
       "stats": {
-        "viewCount": "49912",
+        "viewCount": "52281",
         "subscriberCount": "144",
         "hiddenSubscriberCount": false,
-        "videoCount": "30"
+        "videoCount": "31"
       },
-      "checked_at": "2026-10-21T17:13:13.855504+00:00",
+      "checked_at": "2026-10-22T17:47:06.756133+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818",
@@ -43,7 +43,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T17:13:10.979330+00:00",
+      "google_email_last_attempt_at": "2026-10-22T17:47:04.113074+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
@@ -52,10 +52,10 @@
       "kind": "facebook",
       "label": "Jess Bacon Fans",
       "page_id": "1291106734095763",
-      "status": "Connected",
+      "status": "Needs reconnect",
       "can_publish": true,
-      "checked_at": "2026-10-21T17:13:15.124427+00:00",
-      "notice": "Connection test passed.",
+      "checked_at": "2026-10-22T17:47:07.763183+00:00",
+      "notice": "Meta request rejected (HTTP 400). Check Page role, permissions, app review and token expiry.",
       "meta_app_id": "1819250915866654",
       "avatar": "/avatars/1a023ccd6bdf88fc743394bd57c2f10a59ed28f869c9c4d0ffbd313f8a2b3f4b.img"
     },
@@ -64,9 +64,9 @@
       "kind": "meta",
       "label": "scholarshippost",
       "ig_user_id": "17841448175023222",
-      "status": "Connected",
-      "checked_at": "2026-10-21T17:13:16.163350+00:00",
-      "notice": "Connection test passed.",
+      "status": "Needs reconnect",
+      "checked_at": "2026-10-22T17:47:09.281014+00:00",
+      "notice": "Meta API rejected request (HTTP 400, code 200). Check permissions, Professional account type, Page link and App Review. No upload started.",
       "meta_app_id": "1819250915866654",
       "avatar": "/avatars/e60265c6db52f594cf9b2c7befb567d6a4c9cdc7ac7ec7bf48c8e0483939dea4.img"
     },
@@ -77,12 +77,12 @@
       "status": "Connected",
       "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
       "stats": {
-        "viewCount": "0",
-        "subscriberCount": "1",
+        "viewCount": "7",
+        "subscriberCount": "2",
         "hiddenSubscriberCount": false,
         "videoCount": "1"
       },
-      "checked_at": "2026-10-21T17:13:22.938924+00:00",
+      "checked_at": "2026-10-22T17:47:13.505307+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Jess Bacon Fans",
       "project_id": "drivecast-511818",
@@ -90,7 +90,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T17:13:20.445728+00:00",
+      "google_email_last_attempt_at": "2026-10-22T17:47:11.560843+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
@@ -101,12 +101,12 @@
       "status": "Connected",
       "channel_id": "UC00v33mwUK8QMjkM8Pq7l1g",
       "stats": {
-        "viewCount": "230226",
+        "viewCount": "230382",
         "subscriberCount": "535",
         "hiddenSubscriberCount": false,
         "videoCount": "31"
       },
-      "checked_at": "2026-10-21T17:13:29.014803+00:00",
+      "checked_at": "2026-10-22T17:47:17.824217+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Cassandra Evans",
       "project_id": "drivecast-511818",
@@ -114,7 +114,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T17:13:26.508668+00:00",
+      "google_email_last_attempt_at": "2026-10-22T17:47:16.197163+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
@@ -124,11 +124,11 @@
       "label": "candicecrowmwell-cloud",
       "login": "candicecrowmwell-cloud",
       "status": "Account suspended",
-      "checked_at": "2026-10-21T17:13:29.505556+00:00",
+      "checked_at": "2026-10-22T17:47:18.418579+00:00",
       "notice": "GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry.",
       "avatar": "/avatars/e5160be777503f50475ab3301efb31be7b6a71135dc8ad62bfac403d98d46853.img",
       "health": {
-        "checked_at": "2026-10-21T17:13:29.505655+00:00",
+        "checked_at": "2026-10-22T17:47:18.418720+00:00",
         "token_valid": false,
         "issue": "suspended",
         "quota_issue": false,
@@ -142,12 +142,12 @@
       "status": "Connected",
       "channel_id": "UCMQWrtXP7pPwyv1fDL7BJ6g",
       "stats": {
-        "viewCount": "458",
+        "viewCount": "464",
         "subscriberCount": "7",
         "hiddenSubscriberCount": false,
         "videoCount": "4"
       },
-      "checked_at": "2026-10-21T17:13:35.310628+00:00",
+      "checked_at": "2026-10-22T17:47:25.051517+00:00",
       "notice": "Connection test passed.",
       "requested_name": "Michelle juliet Nayla Fans",
       "project_id": "drivecast-511818",
@@ -155,7 +155,7 @@
       "analytics": {
         "notice": "30-day analytics unavailable. Enable YouTube Analytics API and reconnect with analytics permission."
       },
-      "google_email_last_attempt_at": "2026-10-21T17:13:32.773916+00:00",
+      "google_email_last_attempt_at": "2026-10-22T17:47:20.821382+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     }
@@ -171,7 +171,7 @@
       "limit": 1,
       "category": "22",
       "status": "Enabled",
-      "notice": "Available connections, channel stats, source and GitHub records updated.",
+      "notice": "Unterminated string starting at: line 1 column 714134 (char 714133)",
       "channel_id": "UC4dq2md81-YHc3tuZv1XCyQ",
       "channel_title": "Nora Rose Jean Fans",
       "folder_name": "Nora Rose Jean Fans",
@@ -197,11 +197,11 @@
       "instagram_username": "",
       "source_since": "",
       "stats": {
-        "viewCount": "0",
-        "subscriberCount": "1",
+        "viewCount": "7",
+        "subscriberCount": "2",
         "hiddenSubscriberCount": false,
         "videoCount": "1",
-        "checked_at": "2026-10-21T12:17:18.880435+00:00"
+        "checked_at": "2026-10-22T17:47:13.505307+00:00"
       },
       "source_stats": {},
       "credential_status": "YouTube connection valid",
@@ -214,7 +214,7 @@
       "facebook_title": "",
       "facebook_format": "auto",
       "facebook_initialized": false,
-      "video_stats_checked_at": "2026-10-21T17:14:51.736159+00:00",
+      "video_stats_checked_at": "2026-10-22T17:49:20.979476+00:00",
       "schedule_deployed": true,
       "schedule_mode": "smart",
       "schedule_timezone": "America/Los_Angeles",
@@ -247,15 +247,15 @@
       "category": "22",
       "source_since": "",
       "stats": {
-        "viewCount": "49912",
+        "viewCount": "52293",
         "subscriberCount": "144",
         "hiddenSubscriberCount": false,
-        "videoCount": "30",
-        "checked_at": "2026-10-21T12:21:13.718491+00:00"
+        "videoCount": "31",
+        "checked_at": "2026-10-22T17:36:52.717488+00:00"
       },
       "verified": true,
-      "source_verified": true,
-      "notice": "Available connections, channel stats, source and GitHub records updated.",
+      "source_verified": false,
+      "notice": "Meta API rejected request (HTTP 400, code 200). Check permissions, Professional account type, Page link and App Review. No upload started.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -471,23 +471,23 @@
       "test_passed": false,
       "credential_status": "YouTube connection valid",
       "actual_privacy": "public",
-      "video_stats_checked_at": "2026-10-21T17:14:53.712763+00:00",
+      "video_stats_checked_at": "2026-10-22T17:49:22.527755+00:00",
       "schedule_deployed": true,
       "schedule_mode": "smart",
       "schedule_timezone": "America/Los_Angeles",
       "schedule_windows": "12:00-14:00,18:00-21:00",
       "schedule_usage": {
-        "date": "2026-10-21",
+        "date": "2026-10-22",
         "count": 0,
         "reservations": []
       },
       "last_run": {
-        "id": 39598874861,
+        "id": 39824208958,
         "status": "completed",
         "conclusion": "success",
-        "created_at": "2026-10-21T12:20:56Z",
-        "updated_at": "2026-10-21T12:21:20Z",
-        "html_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans/actions/runs/39598874861"
+        "created_at": "2026-10-22T17:36:37Z",
+        "updated_at": "2026-10-22T17:36:58Z",
+        "html_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans/actions/runs/39824208958"
       },
       "source_avatar": "/avatars/700fea1f9289b6e271d0f4a4c598f314d424308a6929fb06f98a325b518e02a3.img"
     },
@@ -505,15 +505,15 @@
       "category": "22",
       "source_since": "",
       "stats": {
-        "viewCount": "230226",
+        "viewCount": "230382",
         "subscriberCount": "535",
         "hiddenSubscriberCount": false,
         "videoCount": "31",
-        "checked_at": "2026-10-21T12:16:30.261385+00:00"
+        "checked_at": "2026-10-22T17:33:32.495171+00:00"
       },
       "verified": true,
-      "source_verified": true,
-      "notice": "Available connections, channel stats, source and GitHub records updated.",
+      "source_verified": false,
+      "notice": "Meta API rejected request (HTTP 400, code 200). Check permissions, Professional account type, Page link and App Review. No upload started.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -721,7 +721,7 @@
       "status": "Enabled",
       "enabled": true,
       "credential_status": "YouTube connection valid",
-      "video_stats_checked_at": "2026-10-21T17:14:54.539037+00:00",
+      "video_stats_checked_at": "2026-10-22T17:49:23.345844+00:00",
       "schedule_mode": "smart",
       "repo_id": 1427574571,
       "branch": "main",
@@ -733,15 +733,15 @@
       "test_passed": false,
       "actual_privacy": "public",
       "last_run": {
-        "id": 39598272147,
+        "id": 39823724207,
         "status": "completed",
         "conclusion": "success",
-        "created_at": "2026-10-21T12:16:18Z",
-        "updated_at": "2026-10-21T12:16:34Z",
-        "html_url": "https://github.com/thenaimatullahmajeed/Cassandra_Evans/actions/runs/39598272147"
+        "created_at": "2026-10-22T17:33:17Z",
+        "updated_at": "2026-10-22T17:33:38Z",
+        "html_url": "https://github.com/thenaimatullahmajeed/Cassandra_Evans/actions/runs/39823724207"
       },
       "schedule_usage": {
-        "date": "2026-10-21",
+        "date": "2026-10-22",
         "count": 0,
         "reservations": []
       },
@@ -761,15 +761,15 @@
       "category": "22",
       "source_since": "",
       "stats": {
-        "viewCount": "458",
+        "viewCount": "464",
         "subscriberCount": "7",
         "hiddenSubscriberCount": false,
         "videoCount": "4",
-        "checked_at": "2026-10-21T17:13:35.310628+00:00"
+        "checked_at": "2026-10-22T17:47:25.051517+00:00"
       },
       "verified": true,
-      "source_verified": true,
-      "notice": "GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry.",
+      "source_verified": false,
+      "notice": "Meta API rejected request (HTTP 400, code 200). Check permissions, Professional account type, Page link and App Review. No upload started.; GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry.",
       "instagram_username": "michellejulietnaylaa",
       "meta_connection": "meta:17841448175023222",
       "drive_connection": "",
@@ -1007,7 +1007,7 @@
           "2026-10-21T03:13:57.518773+00:00"
         ]
       },
-      "video_stats_checked_at": "2026-10-21T17:14:56.343963+00:00",
+      "video_stats_checked_at": "2026-10-22T17:49:24.927880+00:00",
       "source_avatar": "/avatars/04359d069f0086fdf1ea60d88819de89f805925ccb9fdc28eeab113299048aa0.img",
       "last_run": {
         "id": 39549195348,
@@ -1025,12 +1025,12 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "bc257050baaaee2b5d23752b34cd2f9201b6a1a3",
-    "saved_at": "2026-10-21T17:15:03.455449+00:00"
+    "head": "2ba38d1c4205a4220c6e15d545aa9f6d59b17340",
+    "saved_at": "2026-10-21T17:17:20.772702+00:00"
   },
-  "last_sync": "2026-10-21T17:14:56.344023+00:00",
-  "notice": "Sync finished. Needs attention: candicecrowmwell-cloud, Michelle juliet Nayla Fans",
-  "last_stats_sync": "2026-10-21T17:14:56.343990+00:00",
+  "last_sync": "2026-10-22T17:49:24.927939+00:00",
+  "notice": "Sync finished. Needs attention: Jess Bacon Fans, scholarshippost, candicecrowmwell-cloud, Nora Rose Jean Fans, Jess Bacon Fans, Cassandra_Evans, Michelle juliet Nayla Fans",
+  "last_stats_sync": "2026-10-22T17:49:24.927910+00:00",
   "meta_apps": {
     "1819250915866654": {
       "app_id": "1819250915866654",
