@@ -426,8 +426,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "652c5652cea51d0bbbd4f11ea929d12d381dc9b8",
-    "saved_at": "2026-10-22T21:09:57.608305+00:00"
+    "head": "4b67765636af7bc83502bbe3ed4ab0f08f832131",
+    "saved_at": "2026-10-22T21:10:17.280426+00:00"
   },
   "last_sync": "2026-10-22T17:49:24.927939+00:00",
   "notice": "Sync finished. Needs attention: Jess Bacon Fans, scholarshippost, candicecrowmwell-cloud, Nora Rose Jean Fans, Jess Bacon Fans, Cassandra_Evans, Michelle juliet Nayla Fans",
@@ -1107,5 +1107,11 @@
       }
     ],
     "checked_at": "2026-10-22T21:10:11.414327+00:00"
+  },
+  "draft": {
+    "name": "Cassandra Evans",
+    "folder_id": "1VDR3cc4RfGZ27oAd3JI9Pj5yX0hChOVM",
+    "drive_connection": "drive:dc66f2bb01ea5960",
+    "source_type": "drive"
   }
 }
