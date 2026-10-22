@@ -135,6 +135,16 @@
       "google_email_last_attempt_at": "2026-10-22T17:47:20.821382+00:00",
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
+    },
+    "drive:dc66f2bb01ea5960": {
+      "id": "drive:dc66f2bb01ea5960",
+      "kind": "drive",
+      "label": "themyqueenofficial@gmail.com",
+      "status": "Connected",
+      "checked_at": "2026-10-22T21:09:49.087193+00:00",
+      "notice": "Google access verified.",
+      "requested_name": "Project Google Drive",
+      "project_id": "drivecast-511818"
     }
   },
   "clients": {
@@ -416,8 +426,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "bb8b3acbbe7d9cf13a9a2f7e114986b589647bea",
-    "saved_at": "2026-10-22T19:25:50.342945+00:00"
+    "head": "4181d47cc03a075ae7bca8469406cda7f28f9c57",
+    "saved_at": "2026-10-22T21:01:22.421337+00:00"
   },
   "last_sync": "2026-10-22T17:49:24.927939+00:00",
   "notice": "Sync finished. Needs attention: Jess Bacon Fans, scholarshippost, candicecrowmwell-cloud, Nora Rose Jean Fans, Jess Bacon Fans, Cassandra_Evans, Michelle juliet Nayla Fans",
@@ -1078,5 +1088,24 @@
       "source_since": ""
     }
   },
-  "source_schema": "drive-only-v1"
+  "source_schema": "drive-only-v1",
+  "drive_root": {
+    "connection_id": "drive:dc66f2bb01ea5960",
+    "folder_id": "1K1zul2PxeVZQ0BcRP0RkLvMEy1Evmwos",
+    "name": "Shared with my tool DriveCast",
+    "folders": [
+      {
+        "id": "1VDR3cc4RfGZ27oAd3JI9Pj5yX0hChOVM",
+        "name": "Cassandra Evans",
+        "path": "Cassandra Evans",
+        "parent_id": "1K1zul2PxeVZQ0BcRP0RkLvMEy1Evmwos",
+        "webViewLink": "https://drive.google.com/drive/folders/1VDR3cc4RfGZ27oAd3JI9Pj5yX0hChOVM",
+        "detected_at": "2026-10-22T21:09:51.830159+00:00",
+        "client_id": "",
+        "client_name": "",
+        "new": true
+      }
+    ],
+    "checked_at": "2026-10-22T21:09:51.830190+00:00"
+  }
 }
