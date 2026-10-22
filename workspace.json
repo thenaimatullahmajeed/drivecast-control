@@ -1025,8 +1025,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "dc44ce036b72babf243d1b275665bd8cba9681f6",
-    "saved_at": "2026-10-22T19:13:21.617719+00:00"
+    "head": "283f2bf8a7085710ea698405880427bec5b5c797",
+    "saved_at": "2026-10-22T19:16:27.042146+00:00"
   },
   "last_sync": "2026-10-22T17:49:24.927939+00:00",
   "notice": "Sync finished. Needs attention: Jess Bacon Fans, scholarshippost, candicecrowmwell-cloud, Nora Rose Jean Fans, Jess Bacon Fans, Cassandra_Evans, Michelle juliet Nayla Fans",
@@ -1071,24 +1071,46 @@
   "pool_checked_at": "2026-10-21T05:38:30.109896+00:00",
   "draft": {
     "id": "154a36b0befb3096",
-    "name": "Michelle juliet Nayla Fans",
+    "name": "Cassandra Evans",
     "source_type": "instagram",
     "folder_id": "",
     "drive_connection": "",
-    "instagram_username": "michellejulietnaylaa",
+    "instagram_username": "https://www.instagram.com/northwoodsfolk/",
+    "instagram_fetch_mode": "public",
     "meta_connection": "meta:17841448175023222",
-    "source_since": "",
-    "youtube_connection": "youtube:687186aa0b7e44eb",
-    "requested_channel_name": "Michelle juliet Nayla Fans",
+    "youtube_connection": "youtube:83dc128557d8ba06",
     "facebook_connection": "",
-    "facebook_format": "auto",
     "github_connection": "gh:candicecrowmwell-cloud",
     "repo_name": "youtube-cassandra-evans",
-    "check_minutes": 60,
+    "check_minutes": 120,
     "max_uploads_per_day": 2,
     "schedule_mode": "smart",
-    "schedule_timezone": "America/Los_Angeles",
-    "schedule_windows": "12:00-14:00,18:00-21:00"
+    "schedule_timezone": "",
+    "schedule_windows": "",
+    "source_verified": true,
+    "source_stats": {
+      "id": "35135658",
+      "username": "northwoodsfolk",
+      "scope": "recent_public_window",
+      "complete": false,
+      "notice": "Recent public posts only; a full library or uninterrupted sync is not guaranteed. Missing metadata, login requests and restrictions are shown explicitly.",
+      "discovered_links": 12,
+      "pending_links": 12,
+      "review_links": 0,
+      "before_start": 0,
+      "video_count": 1,
+      "available": 1,
+      "blocked": 0,
+      "checked_at": "2026-10-22T19:19:35.654317+00:00",
+      "preview": [
+        {
+          "id": "3998854597967202351",
+          "title": "Made these last year and I’m totally hooked. I saved many of them, and while the color has faded a t",
+          "timestamp": "2026-10-02T06:00:27+00:00",
+          "available": true
+        }
+      ]
+    }
   },
   "google_app": {
     "client_id": "937854310935-hmelam4huhf6305inbhoab74a33crjkb.apps.googleusercontent.com",
