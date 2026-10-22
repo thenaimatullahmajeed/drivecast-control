@@ -47,29 +47,6 @@
       "google_email_status": "Needs permission",
       "google_email_notice": "Reconnect this channel once to share its Google sign-in email. Existing publishing access is unchanged."
     },
-    "facebook:1291106734095763": {
-      "id": "facebook:1291106734095763",
-      "kind": "facebook",
-      "label": "Jess Bacon Fans",
-      "page_id": "1291106734095763",
-      "status": "Needs reconnect",
-      "can_publish": true,
-      "checked_at": "2026-10-22T17:47:07.763183+00:00",
-      "notice": "Meta request rejected (HTTP 400). Check Page role, permissions, app review and token expiry.",
-      "meta_app_id": "1819250915866654",
-      "avatar": "/avatars/1a023ccd6bdf88fc743394bd57c2f10a59ed28f869c9c4d0ffbd313f8a2b3f4b.img"
-    },
-    "meta:17841448175023222": {
-      "id": "meta:17841448175023222",
-      "kind": "meta",
-      "label": "scholarshippost",
-      "ig_user_id": "17841448175023222",
-      "status": "Needs reconnect",
-      "checked_at": "2026-10-22T17:47:09.281014+00:00",
-      "notice": "Meta API rejected request (HTTP 400, code 200). Check permissions, Professional account type, Page link and App Review. No upload started.",
-      "meta_app_id": "1819250915866654",
-      "avatar": "/avatars/e60265c6db52f594cf9b2c7befb567d6a4c9cdc7ac7ec7bf48c8e0483939dea4.img"
-    },
     "youtube:d1f103c41efd3b5e": {
       "id": "youtube:d1f103c41efd3b5e",
       "kind": "youtube",
@@ -193,9 +170,6 @@
       "github_connection": "gh:thenaimatullahmajeed",
       "youtube_connection": "youtube:d1f103c41efd3b5e",
       "drive_connection": "",
-      "meta_connection": "",
-      "instagram_username": "",
-      "source_since": "",
       "stats": {
         "viewCount": "7",
         "subscriberCount": "2",
@@ -209,11 +183,6 @@
       "actual_privacy": "public",
       "check_minutes": 60,
       "max_uploads_per_day": 2,
-      "facebook_connection": "",
-      "facebook_page_id": "",
-      "facebook_title": "",
-      "facebook_format": "auto",
-      "facebook_initialized": false,
       "video_stats_checked_at": "2026-10-22T17:49:20.979476+00:00",
       "schedule_deployed": true,
       "schedule_mode": "smart",
@@ -236,7 +205,7 @@
     "12ca90b37f29f452": {
       "id": "12ca90b37f29f452",
       "name": "Jess Bacon Fans",
-      "source_type": "instagram",
+      "source_type": "drive",
       "owner": "thenaimatullahmajeed",
       "github_connection": "gh:thenaimatullahmajeed",
       "youtube_connection": "youtube:94004255334e2f6b",
@@ -245,7 +214,6 @@
       "repo_name": "youtube-jess-bacon-fans",
       "privacy": "public",
       "category": "22",
-      "source_since": "",
       "stats": {
         "viewCount": "52293",
         "subscriberCount": "144",
@@ -253,20 +221,249 @@
         "videoCount": "31",
         "checked_at": "2026-10-22T17:36:52.717488+00:00"
       },
-      "verified": true,
+      "verified": false,
       "source_verified": false,
-      "notice": "Meta API rejected request (HTTP 400, code 200). Check permissions, Professional account type, Page link and App Review. No upload started.",
-      "instagram_username": "jesskbacon",
-      "meta_connection": "meta:17841448175023222",
+      "notice": "Select and confirm a subfolder from the project main folder. YouTube access and upload history are preserved.",
       "drive_connection": "",
       "folder_id": "",
-      "facebook_connection": "",
-      "facebook_page_id": "",
-      "facebook_title": "",
       "max_uploads_per_day": 2,
       "check_minutes": 60,
-      "facebook_format": "auto",
       "requested_channel_name": "Jess Bacon Fans",
+      "source_stats": {},
+      "status": "Choose Drive folder",
+      "enabled": false,
+      "repo_id": 1426788030,
+      "branch": "main",
+      "repo_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans",
+      "deployed": true,
+      "worker_version": 4,
+      "test_passed": false,
+      "credential_status": "YouTube connection valid",
+      "actual_privacy": "public",
+      "video_stats_checked_at": "2026-10-22T17:49:22.527755+00:00",
+      "schedule_deployed": true,
+      "schedule_mode": "smart",
+      "schedule_timezone": "America/Los_Angeles",
+      "schedule_windows": "12:00-14:00,18:00-21:00",
+      "schedule_usage": {
+        "date": "2026-10-22",
+        "count": 0,
+        "reservations": []
+      },
+      "last_run": {
+        "id": 39824208958,
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-10-22T17:36:37Z",
+        "updated_at": "2026-10-22T17:36:58Z",
+        "html_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans/actions/runs/39824208958"
+      },
+      "source_migration": {
+        "id": "12ca90b37f29f452",
+        "name": "Jess Bacon Fans",
+        "status": "paused",
+        "history_imported": true
+      },
+      "folder_name": "",
+      "needs_drive_folder": true
+    },
+    "d15e5f6a822aa226": {
+      "id": "d15e5f6a822aa226",
+      "name": "Cassandra_Evans",
+      "source_type": "drive",
+      "owner": "thenaimatullahmajeed",
+      "github_connection": "gh:thenaimatullahmajeed",
+      "youtube_connection": "youtube:83dc128557d8ba06",
+      "channel_id": "UC00v33mwUK8QMjkM8Pq7l1g",
+      "channel_title": "Cassandra Evans",
+      "repo_name": "Cassandra_Evans",
+      "privacy": "public",
+      "category": "22",
+      "stats": {
+        "viewCount": "230382",
+        "subscriberCount": "535",
+        "hiddenSubscriberCount": false,
+        "videoCount": "31",
+        "checked_at": "2026-10-22T17:33:32.495171+00:00"
+      },
+      "verified": false,
+      "source_verified": false,
+      "notice": "Select and confirm a subfolder from the project main folder. YouTube access and upload history are preserved.",
+      "drive_connection": "",
+      "folder_id": "",
+      "max_uploads_per_day": 2,
+      "check_minutes": 120,
+      "requested_channel_name": "Cassandra Evans",
+      "source_stats": {},
+      "status": "Choose Drive folder",
+      "enabled": false,
+      "credential_status": "YouTube connection valid",
+      "video_stats_checked_at": "2026-10-22T17:49:23.345844+00:00",
+      "schedule_mode": "smart",
+      "repo_id": 1427574571,
+      "branch": "main",
+      "repo_url": "https://github.com/thenaimatullahmajeed/Cassandra_Evans",
+      "deployed": true,
+      "worker_version": 4,
+      "schedule_deployed": true,
+      "test_passed": false,
+      "actual_privacy": "public",
+      "last_run": {
+        "id": 39823724207,
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-10-22T17:33:17Z",
+        "updated_at": "2026-10-22T17:33:38Z",
+        "html_url": "https://github.com/thenaimatullahmajeed/Cassandra_Evans/actions/runs/39823724207"
+      },
+      "schedule_usage": {
+        "date": "2026-10-22",
+        "count": 0,
+        "reservations": []
+      },
+      "source_migration": {
+        "id": "d15e5f6a822aa226",
+        "name": "Cassandra_Evans",
+        "status": "paused",
+        "history_imported": true
+      },
+      "folder_name": "",
+      "needs_drive_folder": true
+    },
+    "154a36b0befb3096": {
+      "id": "154a36b0befb3096",
+      "name": "Michelle juliet Nayla Fans",
+      "source_type": "drive",
+      "owner": "candicecrowmwell-cloud",
+      "github_connection": "gh:candicecrowmwell-cloud",
+      "youtube_connection": "youtube:687186aa0b7e44eb",
+      "channel_id": "UCMQWrtXP7pPwyv1fDL7BJ6g",
+      "channel_title": " Michelle juliet Nayla Fans",
+      "repo_name": "youtube-cassandra-evans",
+      "privacy": "public",
+      "category": "22",
+      "stats": {
+        "viewCount": "464",
+        "subscriberCount": "7",
+        "hiddenSubscriberCount": false,
+        "videoCount": "4",
+        "checked_at": "2026-10-22T17:47:25.051517+00:00"
+      },
+      "verified": false,
+      "source_verified": false,
+      "notice": "Select and confirm a subfolder from the project main folder. YouTube access and upload history are preserved.",
+      "drive_connection": "",
+      "folder_id": "",
+      "max_uploads_per_day": 2,
+      "check_minutes": 60,
+      "requested_channel_name": "Michelle juliet Nayla Fans",
+      "schedule_mode": "smart",
+      "schedule_timezone": "America/Los_Angeles",
+      "schedule_windows": "12:00-14:00,18:00-21:00",
+      "source_stats": {},
+      "status": "Choose Drive folder",
+      "enabled": false,
+      "repo_id": 1427605500,
+      "branch": "main",
+      "repo_url": "https://github.com/candicecrowmwell-cloud/youtube-cassandra-evans",
+      "deployed": true,
+      "worker_version": 4,
+      "schedule_deployed": true,
+      "test_passed": false,
+      "route_history": [
+        {
+          "owner": "thenaimatullahmajeed",
+          "repo_name": "youtube-cassandra-evans",
+          "repo_id": 1427604086,
+          "github_connection": "gh:thenaimatullahmajeed",
+          "branch": "main",
+          "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
+          "enabled": true
+        }
+      ],
+      "credential_status": "YouTube connection valid",
+      "actual_privacy": "public",
+      "schedule_usage": {
+        "date": "2026-10-20",
+        "count": 1,
+        "reservations": [
+          "2026-10-21T03:13:57.518773+00:00"
+        ]
+      },
+      "video_stats_checked_at": "2026-10-22T17:49:24.927880+00:00",
+      "last_run": {
+        "id": 39549195348,
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2026-10-21T05:22:36Z",
+        "updated_at": "2026-10-21T05:22:54Z",
+        "html_url": "https://github.com/candicecrowmwell-cloud/youtube-cassandra-evans/actions/runs/39549195348"
+      },
+      "source_migration": {
+        "id": "154a36b0befb3096",
+        "name": "Michelle juliet Nayla Fans",
+        "status": "remote_pause_unconfirmed",
+        "reason": "suspended",
+        "notice": "GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry."
+      },
+      "folder_name": "",
+      "needs_drive_folder": true
+    }
+  },
+  "remote": {
+    "connection": "gh:thenaimatullahmajeed",
+    "owner": "thenaimatullahmajeed",
+    "repo": "drivecast-control",
+    "repo_id": 1423767771,
+    "branch": "main",
+    "head": "bb8b3acbbe7d9cf13a9a2f7e114986b589647bea",
+    "saved_at": "2026-10-22T19:25:50.342945+00:00"
+  },
+  "last_sync": "2026-10-22T17:49:24.927939+00:00",
+  "notice": "Sync finished. Needs attention: Jess Bacon Fans, scholarshippost, candicecrowmwell-cloud, Nora Rose Jean Fans, Jess Bacon Fans, Cassandra_Evans, Michelle juliet Nayla Fans",
+  "last_stats_sync": "2026-10-22T17:49:24.927910+00:00",
+  "migrations": [
+    {
+      "id": "154a36b0befb3096",
+      "name": "Michelle juliet Nayla Fans",
+      "from_account": "thenaimatullahmajeed",
+      "to_account": "candicecrowmwell-cloud",
+      "original_route": {
+        "owner": "thenaimatullahmajeed",
+        "repo_name": "youtube-cassandra-evans",
+        "repo_id": 1427604086,
+        "github_connection": "gh:thenaimatullahmajeed",
+        "branch": "main",
+        "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
+        "enabled": true
+      },
+      "started_at": "2026-10-20T21:58:20.223137+00:00",
+      "status": "Complete",
+      "destination_repo_id": 1427605500,
+      "destination_repo": "https://github.com/candicecrowmwell-cloud/youtube-cassandra-evans",
+      "verified_at": "2026-10-20T21:58:56.364651+00:00",
+      "finished_at": "2026-10-20T21:58:58.748480+00:00"
+    }
+  ],
+  "automation": {
+    "armed": false,
+    "auto_failover": true,
+    "auto_protect": true,
+    "failover_threshold": 95,
+    "pause_failures": 3
+  },
+  "pool_checked_at": "2026-10-21T05:38:30.109896+00:00",
+  "google_app": {
+    "client_id": "937854310935-hmelam4huhf6305inbhoab74a33crjkb.apps.googleusercontent.com",
+    "project_id": "drivecast-511818",
+    "saved_at": "2026-10-21T09:46:25.631222+00:00"
+  },
+  "drive_project": {
+    "folder_id": "1K1zul2PxeVZQ0BcRP0RkLvMEy1Evmwos"
+  },
+  "retired_sources": {
+    "12ca90b37f29f452": {
+      "source_type": "instagram",
       "source_stats": {
         "id": "17841401814310813",
         "username": "jesskbacon",
@@ -460,71 +657,18 @@
           }
         ]
       },
-      "status": "Enabled",
-      "enabled": true,
-      "repo_id": 1426788030,
-      "branch": "main",
-      "repo_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans",
-      "facebook_initialized": false,
-      "deployed": true,
-      "worker_version": 4,
-      "test_passed": false,
-      "credential_status": "YouTube connection valid",
-      "actual_privacy": "public",
-      "video_stats_checked_at": "2026-10-22T17:49:22.527755+00:00",
-      "schedule_deployed": true,
-      "schedule_mode": "smart",
-      "schedule_timezone": "America/Los_Angeles",
-      "schedule_windows": "12:00-14:00,18:00-21:00",
-      "schedule_usage": {
-        "date": "2026-10-22",
-        "count": 0,
-        "reservations": []
-      },
-      "last_run": {
-        "id": 39824208958,
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-10-22T17:36:37Z",
-        "updated_at": "2026-10-22T17:36:58Z",
-        "html_url": "https://github.com/thenaimatullahmajeed/youtube-jess-bacon-fans/actions/runs/39824208958"
-      },
-      "source_avatar": "/avatars/700fea1f9289b6e271d0f4a4c598f314d424308a6929fb06f98a325b518e02a3.img"
-    },
-    "d15e5f6a822aa226": {
-      "id": "d15e5f6a822aa226",
-      "name": "Cassandra_Evans",
-      "source_type": "instagram",
-      "owner": "thenaimatullahmajeed",
-      "github_connection": "gh:thenaimatullahmajeed",
-      "youtube_connection": "youtube:83dc128557d8ba06",
-      "channel_id": "UC00v33mwUK8QMjkM8Pq7l1g",
-      "channel_title": "Cassandra Evans",
-      "repo_name": "Cassandra_Evans",
-      "privacy": "public",
-      "category": "22",
-      "source_since": "",
-      "stats": {
-        "viewCount": "230382",
-        "subscriberCount": "535",
-        "hiddenSubscriberCount": false,
-        "videoCount": "31",
-        "checked_at": "2026-10-22T17:33:32.495171+00:00"
-      },
-      "verified": true,
-      "source_verified": false,
-      "notice": "Meta API rejected request (HTTP 400, code 200). Check permissions, Professional account type, Page link and App Review. No upload started.",
       "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
-      "drive_connection": "",
-      "folder_id": "",
+      "source_avatar": "/avatars/700fea1f9289b6e271d0f4a4c598f314d424308a6929fb06f98a325b518e02a3.img",
       "facebook_connection": "",
       "facebook_page_id": "",
       "facebook_title": "",
-      "max_uploads_per_day": 2,
-      "check_minutes": 120,
       "facebook_format": "auto",
-      "requested_channel_name": "Cassandra Evans",
+      "facebook_initialized": false,
+      "source_since": ""
+    },
+    "d15e5f6a822aa226": {
+      "source_type": "instagram",
       "source_stats": {
         "id": "17841401814310813",
         "username": "jesskbacon",
@@ -718,72 +862,18 @@
           }
         ]
       },
-      "status": "Enabled",
-      "enabled": true,
-      "credential_status": "YouTube connection valid",
-      "video_stats_checked_at": "2026-10-22T17:49:23.345844+00:00",
-      "schedule_mode": "smart",
-      "repo_id": 1427574571,
-      "branch": "main",
-      "repo_url": "https://github.com/thenaimatullahmajeed/Cassandra_Evans",
-      "facebook_initialized": false,
-      "deployed": true,
-      "worker_version": 4,
-      "schedule_deployed": true,
-      "test_passed": false,
-      "actual_privacy": "public",
-      "last_run": {
-        "id": 39823724207,
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-10-22T17:33:17Z",
-        "updated_at": "2026-10-22T17:33:38Z",
-        "html_url": "https://github.com/thenaimatullahmajeed/Cassandra_Evans/actions/runs/39823724207"
-      },
-      "schedule_usage": {
-        "date": "2026-10-22",
-        "count": 0,
-        "reservations": []
-      },
-      "source_avatar": "/avatars/700fea1f9289b6e271d0f4a4c598f314d424308a6929fb06f98a325b518e02a3.img"
-    },
-    "154a36b0befb3096": {
-      "id": "154a36b0befb3096",
-      "name": "Michelle juliet Nayla Fans",
-      "source_type": "instagram",
-      "owner": "candicecrowmwell-cloud",
-      "github_connection": "gh:candicecrowmwell-cloud",
-      "youtube_connection": "youtube:687186aa0b7e44eb",
-      "channel_id": "UCMQWrtXP7pPwyv1fDL7BJ6g",
-      "channel_title": " Michelle juliet Nayla Fans",
-      "repo_name": "youtube-cassandra-evans",
-      "privacy": "public",
-      "category": "22",
-      "source_since": "",
-      "stats": {
-        "viewCount": "464",
-        "subscriberCount": "7",
-        "hiddenSubscriberCount": false,
-        "videoCount": "4",
-        "checked_at": "2026-10-22T17:47:25.051517+00:00"
-      },
-      "verified": true,
-      "source_verified": false,
-      "notice": "Meta API rejected request (HTTP 400, code 200). Check permissions, Professional account type, Page link and App Review. No upload started.; GitHub account suspended. Request an account review through GitHub Appeal and Reinstatement (HTTP 403). Check connection/permissions; no automatic upload retry.",
-      "instagram_username": "michellejulietnaylaa",
+      "instagram_username": "jesskbacon",
       "meta_connection": "meta:17841448175023222",
-      "drive_connection": "",
-      "folder_id": "",
+      "source_avatar": "/avatars/700fea1f9289b6e271d0f4a4c598f314d424308a6929fb06f98a325b518e02a3.img",
       "facebook_connection": "",
       "facebook_page_id": "",
       "facebook_title": "",
-      "max_uploads_per_day": 2,
-      "check_minutes": 60,
       "facebook_format": "auto",
-      "requested_channel_name": "Michelle juliet Nayla Fans",
-      "schedule_mode": "smart",
-      "schedule_timezone": "America/Los_Angeles",
-      "schedule_windows": "12:00-14:00,18:00-21:00",
+      "facebook_initialized": false,
+      "source_since": ""
+    },
+    "154a36b0befb3096": {
+      "source_type": "instagram",
       "source_stats": {
         "id": "17841401293003886",
         "username": "michellejulietnaylaa",
@@ -977,177 +1067,16 @@
           }
         ]
       },
-      "status": "Enabled",
-      "enabled": true,
-      "repo_id": 1427605500,
-      "branch": "main",
-      "repo_url": "https://github.com/candicecrowmwell-cloud/youtube-cassandra-evans",
-      "facebook_initialized": false,
-      "deployed": true,
-      "worker_version": 4,
-      "schedule_deployed": true,
-      "test_passed": false,
-      "route_history": [
-        {
-          "owner": "thenaimatullahmajeed",
-          "repo_name": "youtube-cassandra-evans",
-          "repo_id": 1427604086,
-          "github_connection": "gh:thenaimatullahmajeed",
-          "branch": "main",
-          "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
-          "enabled": true
-        }
-      ],
-      "credential_status": "YouTube connection valid",
-      "actual_privacy": "public",
-      "schedule_usage": {
-        "date": "2026-10-20",
-        "count": 1,
-        "reservations": [
-          "2026-10-21T03:13:57.518773+00:00"
-        ]
-      },
-      "video_stats_checked_at": "2026-10-22T17:49:24.927880+00:00",
+      "instagram_username": "michellejulietnaylaa",
+      "meta_connection": "meta:17841448175023222",
       "source_avatar": "/avatars/04359d069f0086fdf1ea60d88819de89f805925ccb9fdc28eeab113299048aa0.img",
-      "last_run": {
-        "id": 39549195348,
-        "status": "completed",
-        "conclusion": "success",
-        "created_at": "2026-10-21T05:22:36Z",
-        "updated_at": "2026-10-21T05:22:54Z",
-        "html_url": "https://github.com/candicecrowmwell-cloud/youtube-cassandra-evans/actions/runs/39549195348"
-      }
+      "facebook_connection": "",
+      "facebook_page_id": "",
+      "facebook_title": "",
+      "facebook_format": "auto",
+      "facebook_initialized": false,
+      "source_since": ""
     }
   },
-  "remote": {
-    "connection": "gh:thenaimatullahmajeed",
-    "owner": "thenaimatullahmajeed",
-    "repo": "drivecast-control",
-    "repo_id": 1423767771,
-    "branch": "main",
-    "head": "9cdb1aab76b5595282b682a8f5996449efcc93f0",
-    "saved_at": "2026-10-22T19:20:13.264212+00:00"
-  },
-  "last_sync": "2026-10-22T17:49:24.927939+00:00",
-  "notice": "Sync finished. Needs attention: Jess Bacon Fans, scholarshippost, candicecrowmwell-cloud, Nora Rose Jean Fans, Jess Bacon Fans, Cassandra_Evans, Michelle juliet Nayla Fans",
-  "last_stats_sync": "2026-10-22T17:49:24.927910+00:00",
-  "meta_apps": {
-    "1819250915866654": {
-      "app_id": "1819250915866654",
-      "label": "DriveCast Meta app"
-    }
-  },
-  "active_meta_app_id": "1819250915866654",
-  "migrations": [
-    {
-      "id": "154a36b0befb3096",
-      "name": "Michelle juliet Nayla Fans",
-      "from_account": "thenaimatullahmajeed",
-      "to_account": "candicecrowmwell-cloud",
-      "original_route": {
-        "owner": "thenaimatullahmajeed",
-        "repo_name": "youtube-cassandra-evans",
-        "repo_id": 1427604086,
-        "github_connection": "gh:thenaimatullahmajeed",
-        "branch": "main",
-        "repo_url": "https://github.com/thenaimatullahmajeed/youtube-cassandra-evans",
-        "enabled": true
-      },
-      "started_at": "2026-10-20T21:58:20.223137+00:00",
-      "status": "Complete",
-      "destination_repo_id": 1427605500,
-      "destination_repo": "https://github.com/candicecrowmwell-cloud/youtube-cassandra-evans",
-      "verified_at": "2026-10-20T21:58:56.364651+00:00",
-      "finished_at": "2026-10-20T21:58:58.748480+00:00"
-    }
-  ],
-  "automation": {
-    "armed": false,
-    "auto_failover": true,
-    "auto_protect": true,
-    "failover_threshold": 95,
-    "pause_failures": 3
-  },
-  "pool_checked_at": "2026-10-21T05:38:30.109896+00:00",
-  "draft": {
-    "id": "154a36b0befb3096",
-    "name": "Cassandra Evans",
-    "source_type": "instagram",
-    "folder_id": "",
-    "drive_connection": "",
-    "instagram_username": "https://www.instagram.com/northwoodsfolk/",
-    "instagram_fetch_mode": "public",
-    "meta_connection": "meta:17841448175023222",
-    "youtube_connection": "youtube:83dc128557d8ba06",
-    "facebook_connection": "",
-    "github_connection": "gh:candicecrowmwell-cloud",
-    "repo_name": "youtube-cassandra-evans",
-    "check_minutes": 120,
-    "max_uploads_per_day": 2,
-    "schedule_mode": "smart",
-    "schedule_timezone": "",
-    "schedule_windows": "",
-    "source_verified": true,
-    "source_stats": {
-      "id": "35135658",
-      "username": "northwoodsfolk",
-      "scope": "recent_public_window",
-      "complete": false,
-      "notice": "Recent public posts only; a full library or uninterrupted sync is not guaranteed. Missing metadata, login requests and restrictions are shown explicitly.",
-      "discovered_links": 12,
-      "pending_links": 12,
-      "review_links": 0,
-      "before_start": 0,
-      "video_count": 1,
-      "available": 1,
-      "blocked": 0,
-      "checked_at": "2026-10-22T19:19:35.654317+00:00",
-      "preview": [
-        {
-          "id": "3998854597967202351",
-          "title": "Made these last year and I’m totally hooked. I saved many of them, and while the color has faded a t",
-          "timestamp": "2026-10-02T06:00:27+00:00",
-          "available": true
-        }
-      ]
-    }
-  },
-  "google_app": {
-    "client_id": "937854310935-hmelam4huhf6305inbhoab74a33crjkb.apps.googleusercontent.com",
-    "project_id": "drivecast-511818",
-    "saved_at": "2026-10-21T09:46:25.631222+00:00"
-  },
-  "instagram_sources": {
-    "bynicolemaddie": {
-      "id": "bynicolemaddie",
-      "username": "bynicolemaddie",
-      "instagram_fetch_mode": "public",
-      "meta_connection": "",
-      "source_stats": {
-        "id": "39217638909",
-        "username": "bynicolemaddie",
-        "scope": "recent_public_window",
-        "complete": false,
-        "notice": "Recent public posts only; a full library or uninterrupted sync is not guaranteed. Missing metadata, login requests and restrictions are shown explicitly.",
-        "discovered_links": 10,
-        "pending_links": 10,
-        "review_links": 0,
-        "before_start": 0,
-        "video_count": 1,
-        "available": 1,
-        "blocked": 0,
-        "checked_at": "2026-10-22T19:16:19.734896+00:00",
-        "preview": [
-          {
-            "id": "3915354137628594553",
-            "title": "Amazon date night outfits under $45 🤍 comment NEED IT & I’ll send you the details!",
-            "timestamp": "2026-06-09T01:00:39+00:00",
-            "available": true
-          }
-        ]
-      },
-      "checked_at": "2026-10-22T19:16:19.734945+00:00",
-      "label": "@bynicolemaddie"
-    }
-  }
+  "source_schema": "drive-only-v1"
 }
