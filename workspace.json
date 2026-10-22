@@ -1025,8 +1025,8 @@
     "repo": "drivecast-control",
     "repo_id": 1423767771,
     "branch": "main",
-    "head": "d78060d416bf2a711a6b182a2846d341a813c237",
-    "saved_at": "2026-10-22T17:52:03.090806+00:00"
+    "head": "dc44ce036b72babf243d1b275665bd8cba9681f6",
+    "saved_at": "2026-10-22T19:13:21.617719+00:00"
   },
   "last_sync": "2026-10-22T17:49:24.927939+00:00",
   "notice": "Sync finished. Needs attention: Jess Bacon Fans, scholarshippost, candicecrowmwell-cloud, Nora Rose Jean Fans, Jess Bacon Fans, Cassandra_Evans, Michelle juliet Nayla Fans",
@@ -1094,5 +1094,38 @@
     "client_id": "937854310935-hmelam4huhf6305inbhoab74a33crjkb.apps.googleusercontent.com",
     "project_id": "drivecast-511818",
     "saved_at": "2026-10-21T09:46:25.631222+00:00"
+  },
+  "instagram_sources": {
+    "bynicolemaddie": {
+      "id": "bynicolemaddie",
+      "username": "bynicolemaddie",
+      "instagram_fetch_mode": "public",
+      "meta_connection": "",
+      "source_stats": {
+        "id": "39217638909",
+        "username": "bynicolemaddie",
+        "scope": "recent_public_window",
+        "complete": false,
+        "notice": "Recent public posts only; a full library or uninterrupted sync is not guaranteed. Missing metadata, login requests and restrictions are shown explicitly.",
+        "discovered_links": 10,
+        "pending_links": 10,
+        "review_links": 0,
+        "before_start": 0,
+        "video_count": 1,
+        "available": 1,
+        "blocked": 0,
+        "checked_at": "2026-10-22T19:16:19.734896+00:00",
+        "preview": [
+          {
+            "id": "3915354137628594553",
+            "title": "Amazon date night outfits under $45 🤍 comment NEED IT & I’ll send you the details!",
+            "timestamp": "2026-06-09T01:00:39+00:00",
+            "available": true
+          }
+        ]
+      },
+      "checked_at": "2026-10-22T19:16:19.734945+00:00",
+      "label": "@bynicolemaddie"
+    }
   }
 }
