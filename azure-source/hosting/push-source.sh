@@ -31,3 +31,5 @@ if ! git -C "$MIRROR" diff --cached --quiet; then
   git -C "$MIRROR" push --quiet origin HEAD:main
 fi
 git -C "$MIRROR" rev-parse HEAD > "$BASE/data/source-mirror-commit"
+chown 10001:10001 "$BASE/data/source-mirror-commit"
+chmod 600 "$BASE/data/source-mirror-commit"
