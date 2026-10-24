@@ -1,0 +1,101 @@
+name: drivecast
+x-app: &app
+  image: drivecast:${DRIVECAST_VERSION:-current}
+  restart: always
+  init: true
+  environment: &runtime
+    DRIVECAST_DATA_DIR: /data
+    DRIVECAST_HOSTED: '1'
+    DRIVECAST_HOST: ${DRIVECAST_HOST}
+    DRIVECAST_ORIGIN: ${DRIVECAST_ORIGIN}
+    DRIVECAST_OAUTH_REDIRECT: ${DRIVECAST_OAUTH_REDIRECT}
+    DRIVECAST_LIVE_UPLOADS: ${DRIVECAST_LIVE_UPLOADS:-0}
+    DRIVECAST_WORKERS: ${DRIVECAST_WORKERS:-2}
+    DRIVECAST_PROJECT_DAILY_LIMIT: ${DRIVECAST_PROJECT_DAILY_LIMIT:-90}
+    DRIVECAST_MAX_VIDEO_MB: ${DRIVECAST_MAX_VIDEO_MB:-250}
+    DRIVECAST_MONTHLY_TRANSFER_GB: ${DRIVECAST_MONTHLY_TRANSFER_GB:-100}
+    DRIVECAST_TRIAL_END: ${DRIVECAST_TRIAL_END-2026-11-20}
+    DRIVECAST_VERSION: ${DRIVECAST_VERSION:-azure-v1}
+  volumes:
+    - ${DRIVECAST_HOST_DATA:-/opt/drivecast/data}:/data
+  security_opt:
+    - no-new-privileges:true
+  cap_drop: [ALL]
+  tmpfs:
+    - /tmp:size=1024m,mode=1777
+  logging:
+    driver: json-file
+    options: {max-size: 10m, max-file: '3'}
+services:
+  web:
+    <<: *app
+    build: ..
+    command: [python, app.py, --accounts, --port, '8080', --no-browser]
+    environment:
+      <<: *runtime
+      DRIVECAST_BIND: 0.0.0.0
+      DRIVECAST_WORK_DIR: /data
+      DRIVECAST_DATA_DIR: /data
+      DRIVECAST_HOSTED: '1'
+      DRIVECAST_TRUST_PROXY: '1'
+      DRIVECAST_SMTP_HOST: ${DRIVECAST_SMTP_HOST:-}
+      DRIVECAST_SMTP_PORT: ${DRIVECAST_SMTP_PORT:-587}
+      DRIVECAST_SMTP_FROM: ${DRIVECAST_SMTP_FROM:-}
+      DRIVECAST_SMTP_USER: ${DRIVECAST_SMTP_USER:-}
+      DRIVECAST_SMTP_PASSWORD: ${DRIVECAST_SMTP_PASSWORD:-}
+    expose: ['8080']
+    healthcheck:
+      test: [CMD, python, -c, "import urllib.request,os; r=urllib.request.urlopen(urllib.request.Request('http://127.0.0.1:8080/healthz',headers={'Host':os.environ['DRIVECAST_ORIGIN'].split('//')[1]}),timeout=3); assert r.status==200"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+  scheduler:
+    <<: *app
+    command: [python, cloud_runner.py, scheduler]
+    healthcheck:
+      test: [CMD, python, -c, "import pathlib,time; assert time.time()-float(pathlib.Path('/data/scheduler-heartbeat').read_text())<120"]
+      interval: 60s
+      timeout: 5s
+      retries: 3
+  workers:
+    <<: *app
+    command: [python, cloud_runner.py, worker]
+    healthcheck:
+      test: [CMD, python, -c, "import pathlib,time; assert time.time()-float(pathlib.Path('/data/worker-heartbeat').read_text())<120"]
+      interval: 60s
+      timeout: 5s
+      retries: 3
+  backup:
+    <<: *app
+    command: [python, cloud_backup.py, loop]
+    environment:
+      <<: *runtime
+      DRIVECAST_BACKUP_KEY: ${DRIVECAST_BACKUP_KEY}
+      DRIVECAST_BACKUP_STORAGE: ${DRIVECAST_BACKUP_STORAGE:-}
+      DRIVECAST_BACKUP_CONTAINER: ${DRIVECAST_BACKUP_CONTAINER:-drivecast-backups}
+      DRIVECAST_RECOVERY_CONFIG: /run/drivecast-recovery.json
+      DRIVECAST_BACKUP_INTERVAL_SECONDS: ${DRIVECAST_BACKUP_INTERVAL_SECONDS:-3600}
+    volumes:
+      - ${DRIVECAST_HOST_DATA:-/opt/drivecast/data}:/data
+      - /opt/drivecast/secrets/recovery.json:/run/drivecast-recovery.json:ro
+    healthcheck:
+      test: [CMD, python, -c, "import pathlib,time; assert time.time()-float(pathlib.Path('/data/backup-heartbeat').read_text())<180"]
+      interval: 60s
+      timeout: 5s
+      retries: 3
+  caddy:
+    image: caddy:2.10.2-alpine
+    restart: always
+    environment:
+      DRIVECAST_HOST: ${DRIVECAST_HOST}
+    ports: ['80:80', '443:443']
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    logging:
+      driver: json-file
+      options: {max-size: 10m, max-file: '3'}
+volumes:
+  caddy_data:
+  caddy_config:

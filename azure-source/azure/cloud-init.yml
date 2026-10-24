@@ -1,0 +1,34 @@
+#cloud-config
+package_update: true
+package_upgrade: true
+packages:
+  - docker.io
+  - docker-compose-v2
+  - unattended-upgrades
+  - chrony
+  - curl
+  - ca-certificates
+ssh_pwauth: false
+disable_root: true
+write_files:
+  - path: /etc/ssh/sshd_config.d/90-drivecast.conf
+    permissions: '0644'
+    content: |
+      PasswordAuthentication no
+      PermitRootLogin no
+      PubkeyAuthentication yes
+  - path: /etc/apt/apt.conf.d/20auto-upgrades
+    permissions: '0644'
+    content: |
+      APT::Periodic::Update-Package-Lists "1";
+      APT::Periodic::Unattended-Upgrade "1";
+  - path: /etc/docker/daemon.json
+    permissions: '0644'
+    content: |
+      {"log-driver":"json-file","log-opts":{"max-size":"10m","max-file":"3"},"live-restore":true}
+runcmd:
+  - [mkdir, -p, /opt/drivecast/data, /opt/drivecast/releases, /opt/drivecast/secrets]
+  - [chmod, '0700', /opt/drivecast/secrets]
+  - [chown, '10001:10001', /opt/drivecast/data]
+  - [systemctl, enable, --now, docker, chrony, unattended-upgrades]
+  - [systemctl, restart, ssh]

@@ -1,0 +1,7 @@
+{
+  "drive": {
+    "workspace": "REPLACE_WITH_OWNER_WORKSPACE_32_HEX",
+    "connection_id": "REPLACE_WITH_SAVED_DRIVE_CONNECTION",
+    "folder_id": "REPLACE_WITH_PRIVATE_RECOVERY_FOLDER"
+  }
+}

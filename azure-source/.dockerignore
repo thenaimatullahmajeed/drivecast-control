@@ -1,0 +1,10 @@
+work
+__pycache__
+*.zip
+*.enc.json
+*.sqlite3*
+.env
+**/.env
+.git
+**/service-unlock.json
+**/unlock.windows

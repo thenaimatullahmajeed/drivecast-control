@@ -1,0 +1,14 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert'),path=require('path');
+const source=fs.readFileSync(path.resolve(__dirname,'../panel.js'),'utf8');
+const context=vm.createContext({Date,Intl});
+vm.runInContext(source.slice(0,source.indexOf('const TOKEN='))+source.slice(source.indexOf('function ago('),source.indexOf('function routeName(')),context);
+vm.runInContext("var S={connections:{yt:{id:'yt',kind:'youtube',google_email:'manager@example.com',google_email_verified:true,google_email_checked_at:new Date().toISOString()}}}",context);
+const call=expression=>vm.runInContext(expression,context);
+assert(call("googleEmail(S.connections.yt)").includes('manager@example.com'));
+assert(call("googleEmail({youtube_connection:'yt'},true)").includes('Google sign-in: manager@example.com'));
+assert(call("googleEmail({kind:'youtube'})").includes('Reconnect once'));
+assert(!call("googleEmail({kind:'youtube',google_email:'unverified@example.com'})").includes('unverified@example.com'));
+assert(call("googleEmail({kind:'youtube',google_email:'<script>@example.com',google_email_verified:true})").includes('&lt;script&gt;'));
+assert(source.includes('<th>Google sign-in email</th>'));
+assert(source.includes("S.connections[c.youtube_connection]?.google_email"));
+console.log('Google email display passed: verified identity, route label, missing consent, escaping and searchable email.');

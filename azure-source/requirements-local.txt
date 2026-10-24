@@ -1,0 +1,5 @@
+-r requirements.txt
+# Local panel only: portable AES-GCM encrypted recovery vault.
+cryptography==50.0.2
+tzdata==2026.5
+argon2-cffi==25.1.0
