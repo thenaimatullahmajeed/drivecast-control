@@ -59,6 +59,7 @@ const {chromium}=require(process.env.DRIVECAST_PLAYWRIGHT||'playwright');
  assert.equal(await page.locator('#content #remoteForm').count(),0);
  await page.goto(root+'/#backup');assert.equal(await page.locator('#remoteForm').count(),0);
  state.cloud.trial_days_remaining=null;state.cloud.trial_ends='';state.cloud.last_backup={at:new Date().toISOString(),off_azure_verified:true,targets:{drive:{verified:true},azure:{verified:true}},notice:'Encrypted independent backup verified.'};
+ await page.reload();await page.waitForFunction(()=>S.cloud.last_backup?.off_azure_verified===true);
  await page.goto(root+'/#backup');await page.getByRole('heading',{name:'Server recovery outside Azure'}).waitFor();
  assert((await page.locator('#content').innerText()).includes('Private Drive verified'));
  assert(!(await page.locator('#content').innerText()).includes('Azure trial ends in'));
