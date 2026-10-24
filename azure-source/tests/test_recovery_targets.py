@@ -57,6 +57,18 @@ class RecoveryTargets(unittest.TestCase):
             self.assertIn('RECOVER_DRIVECAST.md',archive.namelist());self.assertIn('hosting/bootstrap.sh',archive.namelist())
             self.assertFalse(any('/work/' in f or f.endswith('.key') or Path(f).name=='.env' for f in archive.namelist()))
 
+    def test_docker_image_copies_every_allowlisted_source_file(self):
+        import shlex,fnmatch
+        root=Path(recovery.__file__).parent;patterns=[]
+        for line in (root/'Dockerfile').read_text().splitlines():
+            if not line.startswith('COPY '):continue
+            body=line[5:]
+            while body.startswith('--'):body=body.split(' ',1)[1]
+            parts=json.loads(body) if body.startswith('[') else shlex.split(body)
+            patterns.extend(parts[:-1])
+        for name in json.loads((root/'source-files.json').read_text())['files']:
+            self.assertTrue(any(name.startswith(pattern+'/') or fnmatch.fnmatchcase(name,pattern) and ('/' not in name or '/' in pattern) for pattern in patterns),name)
+
     def test_source_bootstrap_can_extract_without_starting_workers(self):
         spec=importlib.util.spec_from_file_location('extract_source',Path(recovery.__file__).parent/'hosting/extract_source.py');module=importlib.util.module_from_spec(spec);spec.loader.exec_module(module)
         backup=self.root/'snapshot.encrypted';backup.write_bytes(cloud_backup.snapshot(self.root))

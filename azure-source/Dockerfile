@@ -10,6 +10,6 @@ COPY --chown=10001:10001 .github ./.github
 COPY --chown=10001:10001 azure ./azure
 COPY --chown=10001:10001 hosting ./hosting
 COPY --chown=10001:10001 tests ./tests
-COPY --chown=10001:10001 Dockerfile .dockerignore source-files.json ./
+COPY --chown=10001:10001 ["Dockerfile", ".dockerignore", ".gitignore", "source-files.json", "recovery-config.example.json", "Start setup.cmd", "setup.cmd", "./"]
 USER 10001:10001
 CMD ["python", "app.py", "--accounts", "--port", "8080", "--no-browser"]
