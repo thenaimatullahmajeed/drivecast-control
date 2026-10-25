@@ -94,6 +94,7 @@
     "hosting/bootstrap.sh",
     "hosting/extract_source.py",
     "hosting/push-source.sh",
-    "tests/test_recovery_targets.py"
+    "tests/test_recovery_targets.py",
+    "tests/test_recent_posts_ui.cjs"
   ]
 }
